@@ -296,14 +296,10 @@ const List<String> locations = [
   "FARIDKOT",
   "FARMANA",
   "FARRUKHNAGAR",
-  "FARUKHNAGAR",
-  "FATEH PUR",
   "FATEHABAD",
-  "FATEHBAD",
   "FATEHPUR",
   "FATEHPUR TAGA",
   "FAZILKA",
-  "FIROJPUR",
   "FIROZPUR",
   "FIROZPUR KALAN",
   "FRIDABAD",
@@ -373,12 +369,9 @@ const List<String> locations = [
   "HATHRAS",
   "HATT",
   "HAYATPUR",
-  "HIISAR",
   "HIRAN CHAPPAR",
   "HIRAPUR",
   "HISAR",
-  "HISHAR",
-  "HISSAR",
   "HODAL",
   "HOSHIARPUR",
   "HOSHIYARPUR",
@@ -1020,4 +1013,5 @@ const List<String> locations = [
   "YNR",
   "ZIRAKPUR",
   "ZIRKPUR"
+
 ];
