@@ -4855,10 +4855,10 @@
     {
         "sno": 564,
         "Bus_Stand_Name": "AMBALA",
-        "Route_Name": "AMBALA -DHARAMSHALA-AMBALA",
+        "Route_Name": "AMBALA -DHARMSHALA-AMBALA",
         "From": "AMBALA CITY",
         "Via": "AMBALA CANTT",
-        "To": "DHARAMSHALA",
+        "To": "DHARMSHALA",
         "Departure_Time": "06:50"
     },
     {
@@ -6297,7 +6297,7 @@
         "Bus_Stand_Name": "AMBALA",
         "Route_Name": "AMBALA-HARIDWAR-CHANDIGARH-AMBALA",
         "From": "AMBALA CITY",
-        "Via": "SAHARANAPUR",
+        "Via": "SAHARANPUR",
         "To": "HARIDWAR",
         "Departure_Time": "05:25"
     },
@@ -6324,7 +6324,7 @@
         "Bus_Stand_Name": "AMBALA",
         "Route_Name": "AMBALA-DEHRADAUN-CHANDIGARH-AMBALA",
         "From": "AMBALA CITY",
-        "Via": "SAHARANAPUR",
+        "Via": "SAHARANPUR",
         "To": "DEHRADOON",
         "Departure_Time": "08:30"
     },
@@ -6441,7 +6441,7 @@
         "Bus_Stand_Name": "AMBALA",
         "Route_Name": "AMBALA-HARIDWAR-CHANDIGARH-AMBALA",
         "From": "AMBALA CITY",
-        "Via": "SAHARANAPUR",
+        "Via": "SAHARANPUR",
         "To": "HARIDWAR",
         "Departure_Time": "19:40"
     },
@@ -7125,8 +7125,8 @@
         "Bus_Stand_Name": "AMBALA",
         "Route_Name": "AMBALA -BADOULU-AMBAL",
         "From": "AMBALA CITY",
-        "Via": "BADOULI",
-        "To": "BADOULI",
+        "Via": "BADOLI",
+        "To": "BADOLI",
         "Departure_Time": "08:40"
     },
     {
@@ -7189,7 +7189,7 @@
         "Route_Name": "AMBALA -BADOULU-AMBAL",
         "From": "AMBALA CITY",
         "Via": "MOHARA",
-        "To": "BADOULI",
+        "To": "BADOLI",
         "Departure_Time": "15:00"
     },
     {
@@ -7243,7 +7243,7 @@
         "Route_Name": "AMBALA -BADOULU-AMBAL",
         "From": "AMBALA CITY",
         "Via": "MOHARA",
-        "To": "BADOULI",
+        "To": "BADOLI",
         "Departure_Time": "17:40"
     },
     {
@@ -9445,10 +9445,10 @@
     {
         "sno": 90,
         "Bus_Stand_Name": "Bhiwani",
-        "Route_Name": "Bhiwani-Dadri-Bala Ji",
+        "Route_Name": "Bhiwani-Dadri-BALAJI",
         "From": "Bhiwani",
         "Via": "Dadri",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": "10:52",
         "Remarks": "HR"
     },
@@ -9585,10 +9585,10 @@
     {
         "sno": 104,
         "Bus_Stand_Name": "Bhiwani",
-        "Route_Name": "Bhiwani-Dadri-Bala Ji",
+        "Route_Name": "Bhiwani-Dadri-BALAJI",
         "From": "Bhiwani",
         "Via": "Dadri",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": "13:18",
         "Remarks": "HR"
     },
@@ -12245,10 +12245,10 @@
     {
         "sno": 370,
         "Bus_Stand_Name": "Bhiwani",
-        "Route_Name": "Bhiwani-Panipat-Shamli-Deheradun",
+        "Route_Name": "Bhiwani-Panipat-Shamli-DEHRADUN",
         "From": "Bhiwani",
         "Via": "Panipat",
-        "To": "Deheradun",
+        "To": "DEHRADUN",
         "Departure_Time": "08:05",
         "Remarks": "HR"
     },
@@ -12258,7 +12258,7 @@
         "Route_Name": "Bhiwani-Panipat-Shamli-Haridwar",
         "From": "Bhiwani",
         "Via": "Panipat",
-        "To": "Haridawar",
+        "To": "HARIDWAR",
         "Departure_Time": "09:00",
         "Remarks": "HR"
     },
@@ -12278,7 +12278,7 @@
         "Route_Name": "Bhiwani-Panipat-Shamli-Haridwar",
         "From": "Bhiwani",
         "Via": "Panipat",
-        "To": "Haridawar",
+        "To": "HARIDWAR",
         "Departure_Time": "11:00",
         "Remarks": "HR"
     },
@@ -17926,20 +17926,20 @@
       {
         "sno": 60,
         "Bus_Stand_Name": "ISBT-43-CHD.",
-        "Route_Name": "CHD-Kangra-Dharamshala",
+        "Route_Name": "CHD-Kangra-DHARMSHALA",
         "From": "Chandigarh",
         "Via": "kangra",
-        "To": "Dharashala",
+        "To": "DHARMSHALA",
         "Departure_Time": "09:40",
         "Remarks": "Ambala"
       },
       {
         "sno": 61,
         "Bus_Stand_Name": "ISBT-43-CHD.",
-        "Route_Name": "CHD-Kangra-Dharamshala",
+        "Route_Name": "CHD-Kangra-DHARMSHALA",
         "From": "Chandigarh",
         "Via": "kangra",
-        "To": "Dharashala",
+        "To": "DHARMSHALA",
         "Departure_Time": "10:00",
         "Remarks": "Karnal"
       },
@@ -18066,10 +18066,10 @@
       {
         "sno": 74,
         "Bus_Stand_Name": "ISBT-43-CHD.",
-        "Route_Name": "CHD-Kangra-Dharamshala",
+        "Route_Name": "CHD-Kangra-DHARMSHALA",
         "From": "Chandigarh",
         "Via": "kangra",
-        "To": "Dharashala",
+        "To": "DHARMSHALA",
         "Departure_Time": "20:56",
         "Remarks": "Jhajjar"
       },
@@ -22016,10 +22016,10 @@
       {
         "sno": 469,
         "Bus_Stand_Name": "ISBT 17CHANDIGARH",
-        "Route_Name": "Chd-Pipli-Safindo",
+        "Route_Name": "Chd-Pipli-SAFIDON",
         "From": "CHANDIGARH",
         "Via": "Pipli",
-        "To": "Safindo",
+        "To": "SAFIDON",
         "Departure_Time": "11:20",
         "Remarks": "Jind"
       },
@@ -27768,10 +27768,10 @@
       {
         "sno": 309,
         "Bus_Stand_Name": "Charkhi Dadri",
-        "Route_Name": "Bala Ji (Hisar)",
+        "Route_Name": "BALAJI (Hisar)",
         "From": "Charkhi Dadri",
         "Via": "Alwar",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": "11:45"
       },
       {
@@ -27930,10 +27930,10 @@
       {
         "sno": 327,
         "Bus_Stand_Name": "Charkhi Dadri",
-        "Route_Name": "Bala Ji (BWN)",
+        "Route_Name": "BALAJI (BWN)",
         "From": "Charkhi Dadri",
         "Via": "Alwar",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": "14:27"
       },
       {
@@ -30311,7 +30311,7 @@
       {
         "sno": 51,
         "Bus_Stand_Name": "Fatehabad",
-        "Route_Name": "Fatehabad to Balabhgarh",
+        "Route_Name": "Fatehabad to BALLABGARH",
         "From": "",
         "Via": "Hisar",
         "To": "Delhi",
@@ -38393,7 +38393,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "08:30",
         "Remarks": ""
@@ -38403,7 +38403,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "10:20",
         "Remarks": ""
@@ -38413,7 +38413,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "12:20",
         "Remarks": ""
@@ -38423,7 +38423,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "13:50",
         "Remarks": ""
@@ -38433,7 +38433,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "14:40",
         "Remarks": ""
@@ -38443,7 +38443,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "15:40",
         "Remarks": ""
@@ -38453,7 +38453,7 @@
         "Bus_Stand_Name": "Fatehabad",
         "Route_Name": "Tohana to Uklana",
         "From": "Tohana",
-        "Via": "Parta",
+        "Via": "PARTAN",
         "To": "Uklana",
         "Departure_Time": "17:40",
         "Remarks": ""
@@ -38945,7 +38945,7 @@
       {
         "sno": 47,
         "Bus_Stand_Name": "Ballabgarh Bus Stand",
-        "Route_Name": "DHARAMSHALA",
+        "Route_Name": "DHARMSHALA",
         "From": "Ballabgarh",
         "Via": "Delhi",
         "To": "Dharmshala",
@@ -40584,10 +40584,10 @@
       {
         "sno": 29,
         "Bus_Stand_Name": "Gurugram",
-        "Route_Name": "Panchruki",
+        "Route_Name": "PANCHRUKHI",
         "From": "Gurugram",
         "Via": "ISBT Delhi",
-        "To": "Panchruki",
+        "To": "PANCHRUKHI",
         "Departure_Time": "15:50",
         "Remarks": ""
       },
@@ -47942,10 +47942,10 @@
       {
         "sno": 193,
         "Bus_Stand_Name": "Hisar",
-        "Route_Name": "Hisar - Ponta Sahib",
+        "Route_Name": "Hisar - PONTASAHIB",
         "From": "Hisar",
         "Via": "Kaithal",
-        "To": "Ponta Sahib",
+        "To": "PONTASAHIB",
         "Departure_Time": "05:00"
       },
       {
@@ -50060,7 +50060,7 @@
         "Route_Name": "Hisar - Budlada",
         "From": "Hisar",
         "Via": "Fatehabad",
-        "To": "Budlanda",
+        "To": "BUDLADA",
         "Departure_Time": "08:30"
       },
       {
@@ -61235,10 +61235,10 @@
       {
         "sno": 1670,
         "Bus_Stand_Name": "Barwala",
-        "Route_Name": "Hisar - Ponta Sahib",
+        "Route_Name": "Hisar - PONTASAHIB",
         "From": "Barwala",
         "Via": "Kaithal",
-        "To": "Ponta Sahib",
+        "To": "PONTASAHIB",
         "Departure_Time": "05:45"
       },
       {
@@ -63083,10 +63083,10 @@
       {
         "sno": 121,
         "Bus_Stand_Name": "SKK Delhi",
-        "Route_Name": "Bala Ji",
+        "Route_Name": "BALAJI",
         "From": "SKK Delhi",
         "Via": "Faridabad-Palwal-Muthura-Bharat Pur",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": "11:45",
         "Remarks": "Faridabad"
       },
@@ -69403,10 +69403,10 @@
       {
         "sno": 753,
         "Bus_Stand_Name": "SKK Delhi",
-        "Route_Name": "Pushkar",
+        "Route_Name": "PUSKAR",
         "From": "SKK Delhi",
         "Via": "Gurgaon-Jaipur-Ajmer",
-        "To": "Pushkar",
+        "To": "PUSKAR",
         "Departure_Time": "09:05",
         "Remarks": "Rewari"
       },
@@ -69433,10 +69433,10 @@
       {
         "sno": 756,
         "Bus_Stand_Name": "SKK Delhi",
-        "Route_Name": "Pushkar",
+        "Route_Name": "PUSKAR",
         "From": "SKK Delhi",
         "Via": "Gurgaon-Jaipur-Ajmer",
-        "To": "Pushkar",
+        "To": "PUSKAR",
         "Departure_Time": "09:18",
         "Remarks": "Rewari"
       },
@@ -69473,10 +69473,10 @@
       {
         "sno": 760,
         "Bus_Stand_Name": "SKK Delhi",
-        "Route_Name": "Pushkar",
+        "Route_Name": "PUSKAR",
         "From": "SKK Delhi",
         "Via": "Gurgaon-Jaipur-Ajmer",
-        "To": "Pushkar",
+        "To": "PUSKAR",
         "Departure_Time": "09:37",
         "Remarks": "Rewari"
       },
@@ -69523,10 +69523,10 @@
       {
         "sno": 765,
         "Bus_Stand_Name": "SKK Delhi",
-        "Route_Name": "Pushkar",
+        "Route_Name": "PUSKAR",
         "From": "SKK Delhi",
         "Via": "Gurgaon-Jaipur-Ajmer",
-        "To": "Pushkar",
+        "To": "PUSKAR",
         "Departure_Time": "10:17",
         "Remarks": "Rewari"
       },
@@ -71183,10 +71183,10 @@
       {
         "sno": 931,
         "Bus_Stand_Name": "ISBT Delhi",
-        "Route_Name": "Dharamshala",
+        "Route_Name": "DHARMSHALA",
         "From": "ISBT Delhi",
         "Via": "Ambala Cant-Una",
-        "To": "Dharamshala",
+        "To": "DHARMSHALA",
         "Departure_Time": "04:06",
         "Remarks": "Karnal"
       },
@@ -73043,10 +73043,10 @@
       {
         "sno": 1117,
         "Bus_Stand_Name": "ISBT Delhi",
-        "Route_Name": "Dharamshala",
+        "Route_Name": "DHARMSHALA",
         "From": "ISBT Delhi",
         "Via": "Ambala Cant-Una-Knagra",
-        "To": "Dharamshala",
+        "To": "DHARMSHALA",
         "Departure_Time": "22:05",
         "Remarks": "Faridabad"
       },
@@ -74116,7 +74116,7 @@
         "Route_Name": "BAHADURGARH-DL-CHD 43-DHARAMSALA",
         "From": "BAHADURGARH",
         "Via": "DELHI",
-        "To": "DHARAMSHALA",
+        "To": "DHARMSHALA",
         "Departure_Time": "10:35",
         "Remarks": "HR"
       },
@@ -86486,7 +86486,7 @@
         "Route_Name": "JHAJJAR-REWARI-BALAJI",
         "From": "JHAJJAR",
         "Via": "REWARI",
-        "To": "BALA JI",
+        "To": "BALAJI",
         "Departure_Time": "12:10",
         "Remarks": "HR"
       },
@@ -87913,10 +87913,10 @@
       {
         "sno": 1385,
         "Bus_Stand_Name": "JHAJJAR",
-        "Route_Name": "JHAJJAR-GANGANAGAR",
+        "Route_Name": "JHAJJAR-Ganganagar",
         "From": "JHAJJAR",
         "Via": "SIRSA",
-        "To": "GANGA NAGAR",
+        "To": "Ganganagar",
         "Departure_Time": "07:50",
         "Remarks": "HR"
       },
@@ -96354,7 +96354,7 @@
       {
         "sno": 540,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind-Ponta Sahib",
+        "Route_Name": "Jind-PONTASAHIB",
         "From": "Jind",
         "Via": "Karnal",
         "To": "PontaSahib",
@@ -96363,10 +96363,10 @@
       {
         "sno": 541,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "06:00"
       },
       {
@@ -96374,134 +96374,134 @@
         "Bus_Stand_Name": "Jind",
         "Route_Name": "Jind-Karnal",
         "From": "Jind",
-        "Via": "Asandh",
+        "Via": "ASSANDH",
         "To": "Karnal",
         "Departure_Time": "06:15"
       },
       {
         "sno": 543,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "06:30"
       },
       {
         "sno": 544,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "06:45"
       },
       {
         "sno": 545,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:00"
       },
       {
         "sno": 546,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:10"
       },
       {
         "sno": 547,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:20"
       },
       {
         "sno": 548,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:30"
       },
       {
         "sno": 549,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:40"
       },
       {
         "sno": 550,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "07:50"
       },
       {
         "sno": 551,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:00"
       },
       {
         "sno": 552,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:10"
       },
       {
         "sno": 553,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:20"
       },
       {
         "sno": 554,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:30"
       },
       {
         "sno": 555,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:40"
       },
       {
         "sno": 556,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "08:50"
       },
       {
@@ -96509,215 +96509,215 @@
         "Bus_Stand_Name": "Jind",
         "Route_Name": "Jind-Karnal",
         "From": "Jind",
-        "Via": "Asandh",
+        "Via": "ASSANDH",
         "To": "Karnal",
         "Departure_Time": "09:00"
       },
       {
         "sno": 558,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "09:10"
       },
       {
         "sno": 559,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "09:20"
       },
       {
         "sno": 560,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "09:30"
       },
       {
         "sno": 561,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "09:40"
       },
       {
         "sno": 562,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "09:50"
       },
       {
         "sno": 563,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:00"
       },
       {
         "sno": 564,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:10"
       },
       {
         "sno": 565,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:20"
       },
       {
         "sno": 566,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:30"
       },
       {
         "sno": 567,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:40"
       },
       {
         "sno": 568,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "10:50"
       },
       {
         "sno": 569,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:00"
       },
       {
         "sno": 570,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:10"
       },
       {
         "sno": 571,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:20"
       },
       {
         "sno": 572,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:30"
       },
       {
         "sno": 573,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:40"
       },
       {
         "sno": 574,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "11:50"
       },
       {
         "sno": 575,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:00"
       },
       {
         "sno": 576,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:10"
       },
       {
         "sno": 577,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:20"
       },
       {
         "sno": 578,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:30"
       },
       {
         "sno": 579,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:40"
       },
       {
         "sno": 580,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "12:50"
       },
       {
@@ -96725,242 +96725,242 @@
         "Bus_Stand_Name": "Jind",
         "Route_Name": "Hisar-Karnal",
         "From": "Hisar",
-        "Via": "Asandh",
+        "Via": "ASSANDH",
         "To": "Karnal",
         "Departure_Time": "13:00"
       },
       {
         "sno": 582,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "13:10"
       },
       {
         "sno": 583,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "13:20"
       },
       {
         "sno": 584,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "13:30"
       },
       {
         "sno": 585,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "13:40"
       },
       {
         "sno": 586,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "13:50"
       },
       {
         "sno": 587,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:00"
       },
       {
         "sno": 588,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:10"
       },
       {
         "sno": 589,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:20"
       },
       {
         "sno": 590,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:30"
       },
       {
         "sno": 591,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:40"
       },
       {
         "sno": 592,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "14:50"
       },
       {
         "sno": 593,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:00"
       },
       {
         "sno": 594,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:10"
       },
       {
         "sno": 595,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:20"
       },
       {
         "sno": 596,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:30"
       },
       {
         "sno": 597,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:40"
       },
       {
         "sno": 598,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "15:50"
       },
       {
         "sno": 599,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:00"
       },
       {
         "sno": 600,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:10"
       },
       {
         "sno": 601,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:20"
       },
       {
         "sno": 602,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:30"
       },
       {
         "sno": 603,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:40"
       },
       {
         "sno": 604,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "16:50"
       },
       {
         "sno": 605,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "17:00"
       },
       {
         "sno": 606,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "17:10"
       },
       {
         "sno": 607,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "17:20"
       },
       {
@@ -96968,80 +96968,80 @@
         "Bus_Stand_Name": "Jind",
         "Route_Name": "Hisar-Karnal",
         "From": "Hisar",
-        "Via": "Asandh",
+        "Via": "ASSANDH",
         "To": "Karnal",
         "Departure_Time": "17:30"
       },
       {
         "sno": 609,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "17:40"
       },
       {
         "sno": 610,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "17:50"
       },
       {
         "sno": 611,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:00"
       },
       {
         "sno": 612,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:10"
       },
       {
         "sno": 613,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:20"
       },
       {
         "sno": 614,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:30"
       },
       {
         "sno": 615,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:40"
       },
       {
         "sno": 616,
         "Bus_Stand_Name": "Jind",
-        "Route_Name": "Jind -Asandh",
+        "Route_Name": "Jind -ASSANDH",
         "From": "Jind",
         "Via": "Alewa",
-        "To": "Asandh",
+        "To": "ASSANDH",
         "Departure_Time": "18:50"
       },
       {
@@ -113868,19 +113868,19 @@
       {
         "sno": 699,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "06:00"
       },
       {
         "sno": 700,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "07:00"
       },
       {
@@ -113895,10 +113895,10 @@
       {
         "sno": 702,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "08:00"
       },
       {
@@ -113913,10 +113913,10 @@
       {
         "sno": 704,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "09:00"
       },
       {
@@ -113931,10 +113931,10 @@
       {
         "sno": 706,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "10:00"
       },
       {
@@ -113949,10 +113949,10 @@
       {
         "sno": 708,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "11:00"
       },
       {
@@ -113967,10 +113967,10 @@
       {
         "sno": 710,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "12:00"
       },
       {
@@ -113985,10 +113985,10 @@
       {
         "sno": 712,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "13:00"
       },
       {
@@ -114003,10 +114003,10 @@
       {
         "sno": 714,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "14:00"
       },
       {
@@ -114021,10 +114021,10 @@
       {
         "sno": 716,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "15:00"
       },
       {
@@ -114039,10 +114039,10 @@
       {
         "sno": 718,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "16:00"
       },
       {
@@ -114057,19 +114057,19 @@
       {
         "sno": 720,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "17:00"
       },
       {
         "sno": 721,
         "Bus_Stand_Name": "KARNAL",
-        "Route_Name": "KARNAL-GARHIBIRBAL",
+        "Route_Name": "KARNAL-Garhi Birbal",
         "From": "KARNAL",
         "Via": "BADAGAON",
-        "To": "GARHIBIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "17:30"
       },
       {
@@ -114392,7 +114392,7 @@
         "Bus_Stand_Name": "KURUKSHETRA",
         "Route_Name": "KURUKSHETRA-Mathura",
         "From": "KURUKSHETRA",
-        "Via": "Dehli",
+        "Via": "DELHI",
         "To": "Mathura",
         "Departure_Time": "04:25"
       },
@@ -120303,10 +120303,10 @@
       {
         "sno": 231,
         "Bus_Stand_Name": "Narnaul",
-        "Route_Name": "Narnaul-Sohna-Balabhgarh",
+        "Route_Name": "Narnaul-Sohna-BALLABGARH",
         "From": "Narnaul",
         "Via": "Sohna",
-        "To": "Balabhgarh",
+        "To": "BALLABGARH",
         "Departure_Time": 11.2
       },
       {
@@ -122193,10 +122193,10 @@
       {
         "sno": 441,
         "Bus_Stand_Name": "Narnaul",
-        "Route_Name": "Narnaul-Jaipur-Pushkar",
+        "Route_Name": "Narnaul-Jaipur-PUSKAR",
         "From": "Narnaul",
         "Via": "Jaipur",
-        "To": "Pushkar",
+        "To": "PUSKAR",
         "Departure_Time": 11.4
       },
       {
@@ -122853,7 +122853,7 @@
         "Route_Name": "Narnaul-Alwar-Balaji",
         "From": "Narnaul",
         "Via": "Alwar",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": 13.4
       },
       {
@@ -122961,7 +122961,7 @@
         "Route_Name": "Narnaul-Alwar-Balaji",
         "From": "Narnaul",
         "Via": "Alwar",
-        "To": "Bala Ji",
+        "To": "BALAJI",
         "Departure_Time": 16.49
       },
       {
@@ -123669,7 +123669,7 @@
       {
         "sno": 605,
         "Bus_Stand_Name": "Mahendergarh",
-        "Route_Name": "Mahendergarh-Narnaul-Pushkar",
+        "Route_Name": "Mahendergarh-Narnaul-PUSKAR",
         "From": "Mahendergarh",
         "Via": "Narnaul",
         "To": "Puskar",
@@ -129589,10 +129589,10 @@
       {
         "sno": 73,
         "Bus_Stand_Name": "Panchkula",
-        "Route_Name": "Panchkula-Ponta Sahib",
+        "Route_Name": "Panchkula-PONTASAHIB",
         "From": "Panchkula",
         "Via": "Naraingarh",
-        "To": "Ponta Sahib",
+        "To": "PONTASAHIB",
         "Departure_Time": "09:51",
         "Remarks": ""
       },
@@ -131419,10 +131419,10 @@
       {
         "sno": 256,
         "Bus_Stand_Name": "KALKA",
-        "Route_Name": "KALKA-CHD-PONTA SAHIB-CHD-KALKA",
+        "Route_Name": "KALKA-CHD-PONTASAHIB-CHD-KALKA",
         "From": "KALKA",
         "Via": "CHD.43",
-        "To": "CHD-Ponta Sahib",
+        "To": "CHD-PONTASAHIB",
         "Departure_Time": "07:20",
         "Remarks": ""
       },
@@ -134980,19 +134980,19 @@
       {
         "sno": 350,
         "Bus_Stand_Name": "Panipat",
-        "Route_Name": "Kaithal-Pushker",
+        "Route_Name": "Kaithal-PUSKAR",
         "From": "Kaithal",
         "Via": "Panipat",
-        "To": "Pushker",
+        "To": "PUSKAR",
         "Departure_Time": "06:45"
       },
       {
         "sno": 351,
         "Bus_Stand_Name": "Panipat",
-        "Route_Name": "Panipat--Bala ji",
+        "Route_Name": "Panipat--BALAJI",
         "From": "Panipat",
         "Via": "Mathura",
-        "To": "Bala ji",
+        "To": "BALAJI",
         "Departure_Time": "07:00"
       },
       {
@@ -138157,10 +138157,10 @@
       {
         "sno": 300,
         "Bus_Stand_Name": "REWARI",
-        "Route_Name": "REWARI TO HARIDAWAR",
+        "Route_Name": "REWARI TO HARIDWAR",
         "From": "REWARI",
         "Via": "DELHI",
-        "To": "HARIDAWAR",
+        "To": "HARIDWAR",
         "Departure_Time": "12:00"
       },
       {
@@ -146526,7 +146526,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "06:30",
         "Remarks": "HR"
@@ -146536,7 +146536,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Suratgarh,Anoopgarh",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "anoopghar",
         "Departure_Time": "06:50",
         "Remarks": "HR"
@@ -146546,7 +146546,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "07:10",
         "Remarks": "HR"
@@ -146557,7 +146557,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "07:31",
         "Remarks": "RAJ."
       },
@@ -146577,7 +146577,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "08:13",
         "Remarks": "HR"
       },
@@ -146586,7 +146586,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Suratgarh",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Suratghar",
         "Departure_Time": "08:30",
         "Remarks": "HR"
@@ -146596,7 +146596,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "08:48",
         "Remarks": "HR"
@@ -146606,7 +146606,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "09:05",
         "Remarks": "HR"
@@ -146626,7 +146626,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Suratgarh",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Suratghar",
         "Departure_Time": "09:37",
         "Remarks": "HR"
@@ -146637,7 +146637,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "09:51",
         "Remarks": "HR"
       },
@@ -146646,7 +146646,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "10:05",
         "Remarks": "HR"
@@ -146657,7 +146657,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "10:24",
         "Remarks": "HR"
       },
@@ -146676,7 +146676,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "11:00",
         "Remarks": "HR"
@@ -146687,7 +146687,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "11:15",
         "Remarks": "HR"
       },
@@ -146697,7 +146697,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "11:29",
         "Remarks": "HR"
       },
@@ -146716,7 +146716,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "12:10",
         "Remarks": "HR"
@@ -146726,7 +146726,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar, Karanpur",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Karanpur",
         "Departure_Time": "12:32",
         "Remarks": "HR"
@@ -146736,7 +146736,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "12:53",
         "Remarks": "HR"
@@ -146746,7 +146746,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Suratgarh,Anoopgarh",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Anoopghar",
         "Departure_Time": "13:05",
         "Remarks": "HR"
@@ -146756,7 +146756,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "13:35",
         "Remarks": "HR"
@@ -146766,7 +146766,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "13:56",
         "Remarks": "HR"
@@ -146787,7 +146787,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "14:31",
         "Remarks": "HR"
       },
@@ -146806,7 +146806,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumanghar",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "15:06",
         "Remarks": "RAJ."
@@ -146816,7 +146816,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Ellenabad, Hanumangarh, Ganganagar",
         "From": "Sirsa",
-        "Via": "Hanumangah",
+        "Via": "HANUMANGARH",
         "To": "Ganganager",
         "Departure_Time": "15:20",
         "Remarks": "HR"
@@ -146827,7 +146827,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "15:41",
         "Remarks": "HR"
       },
@@ -146837,7 +146837,7 @@
         "Route_Name": "Ellenabad, Hanumangarh",
         "From": "Sirsa",
         "Via": "Ellenabad",
-        "To": "Hanumanghar",
+        "To": "HANUMANGARH",
         "Departure_Time": "16:02",
         "Remarks": "HR"
       },
@@ -153026,7 +153026,7 @@
         "Bus_Stand_Name": "Sirsa",
         "Route_Name": "Mattar",
         "From": "Sirsa",
-        "Via": "Panjuan",
+        "Via": "PANJUANA",
         "To": "Mattar",
         "Departure_Time": "18:00",
         "Remarks": "HR"
@@ -163048,7 +163048,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- DELHI",
         "From": "YAMUNANAGAR",
-        "Via": "GARI BIRBAL",
+        "Via": "Garhi Birbal",
         "To": "DELHI",
         "Departure_Time": "5:50"
       },
@@ -163364,7 +163364,7 @@
         "Route_Name": "YAMUNANAGAR- PANCHKULA",
         "From": "YAMUNANAGAR",
         "Via": "SAHJADPUR, BARWALA",
-        "To": "PANCHKUKA",
+        "To": "PANCHKULA",
         "Departure_Time": "06:20"
       },
       {
@@ -163382,7 +163382,7 @@
         "Route_Name": "YAMUNANAGAR- PANCHKULA",
         "From": "YAMUNANAGAR",
         "Via": "SAHJADPUR, BARWALA",
-        "To": "PANCHKUKA",
+        "To": "PANCHKULA",
         "Departure_Time": "06:45"
       },
       {
@@ -163670,7 +163670,7 @@
         "Route_Name": "YAMUNANAGAR- PANCHKULA",
         "From": "YAMUNANAGAR",
         "Via": "SAHJADPUR, BARWALA",
-        "To": "PANCHKUKA",
+        "To": "PANCHKULA",
         "Departure_Time": "12:10"
       },
       {
@@ -165314,82 +165314,82 @@
       {
         "sno": 258,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "7:30"
       },
       {
         "sno": 259,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "8:30"
       },
       {
         "sno": 260,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "9:30"
       },
       {
         "sno": 261,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "10:30"
       },
       {
         "sno": 262,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "11:30"
       },
       {
         "sno": 263,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "12:30"
       },
       {
         "sno": 264,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "13:30"
       },
       {
         "sno": 265,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "14:30"
       },
       {
         "sno": 266,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "15:00"
       },
       {
@@ -165413,19 +165413,19 @@
       {
         "sno": 269,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "16:30"
       },
       {
         "sno": 270,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "17:00"
       },
       {
@@ -165440,10 +165440,10 @@
       {
         "sno": 272,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- GARI BIRBAL",
+        "Route_Name": "YAMUNANAGAR- Garhi Birbal",
         "From": "YAMUNANAGAR",
         "Via": "SHADIPUR, JATHLANA",
-        "To": "GARI BIRBAL",
+        "To": "Garhi Birbal",
         "Departure_Time": "18:00"
       },
       {
@@ -165451,7 +165451,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- BIANA",
         "From": "YAMUNANAGAR",
-        "Via": "SHADIPUR, GARI BIRBAL",
+        "Via": "SHADIPUR, Garhi Birbal",
         "To": "BIANA",
         "Departure_Time": "19:00"
       },
@@ -165791,37 +165791,37 @@
       {
         "sno": 311,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "5:40"
       },
       {
         "sno": 312,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "6:20"
       },
       {
         "sno": 313,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "6:40"
       },
       {
         "sno": 314,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "7:20"
       },
       {
@@ -165829,26 +165829,26 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- DEHRADUN",
         "From": "YAMUNANAGAR",
-        "Via": "PONTA SAHIB, PREM NAGAR",
+        "Via": "PONTASAHIB, PREM NAGAR",
         "To": "DEHRADUN",
         "Departure_Time": "7:40"
       },
       {
         "sno": 316,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "7:55"
       },
       {
         "sno": 317,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "8:20"
       },
       {
@@ -165856,206 +165856,206 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- DEHRADUN",
         "From": "YAMUNANAGAR",
-        "Via": "PONTA SAHIB, PREM NAGAR",
+        "Via": "PONTASAHIB, PREM NAGAR",
         "To": "DEHRADUN",
         "Departure_Time": "8:40"
       },
       {
         "sno": 319,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "9:00"
       },
       {
         "sno": 320,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "09:20"
       },
       {
         "sno": 321,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "09:40"
       },
       {
         "sno": 322,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "10:00"
       },
       {
         "sno": 323,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "10:40"
       },
       {
         "sno": 324,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "10:50"
       },
       {
         "sno": 325,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "11:40"
       },
       {
         "sno": 326,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "12:10"
       },
       {
         "sno": 327,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "12:40"
       },
       {
         "sno": 328,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "13:10"
       },
       {
         "sno": 329,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "13:25"
       },
       {
         "sno": 330,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "13:40"
       },
       {
         "sno": 331,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "14:10"
       },
       {
         "sno": 332,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "14:40"
       },
       {
         "sno": 333,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "15:15"
       },
       {
         "sno": 334,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "16:10"
       },
       {
         "sno": 335,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "16:30"
       },
       {
         "sno": 336,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "17:20"
       },
       {
         "sno": 337,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "17:30"
       },
       {
         "sno": 338,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "18:30"
       },
       {
         "sno": 339,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HP)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HP)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "19:20"
       },
       {
         "sno": 340,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- PONTA SAHIB (HVAC)",
+        "Route_Name": "YAMUNANAGAR- PONTASAHIB (HVAC)",
         "From": "YAMUNANAGAR",
         "Via": "CHHACHHRAULI, PARTAPNAGAR",
-        "To": "PONTA SAHIB",
+        "To": "PONTASAHIB",
         "Departure_Time": "20:30"
       },
       {
@@ -167332,7 +167332,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "5:10"
       },
@@ -167341,7 +167341,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "6:00"
       },
@@ -167350,17 +167350,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "06:40"
       },
       {
         "sno": 485,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "7:00"
       },
       {
@@ -167368,7 +167368,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- KOTDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "KOTDWAR",
         "Departure_Time": "07:20"
       },
@@ -167377,17 +167377,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "07:50"
       },
       {
         "sno": 488,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "8:00"
       },
       {
@@ -167395,7 +167395,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "08:10"
       },
@@ -167404,7 +167404,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "8:25"
       },
@@ -167413,17 +167413,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HALDWANI",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HALDWANI",
         "Departure_Time": "08:40"
       },
       {
         "sno": 492,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "9:00"
       },
       {
@@ -167431,17 +167431,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "09:20"
       },
       {
         "sno": 494,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "9:30"
       },
       {
@@ -167449,17 +167449,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- DEHRADUN",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "DEHRADUN",
         "Departure_Time": "09:40"
       },
       {
         "sno": 496,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "10:00"
       },
       {
@@ -167467,7 +167467,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HALDWANI",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HALDWANI",
         "Departure_Time": "10:10"
       },
@@ -167476,53 +167476,53 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "10:20"
       },
       {
         "sno": 499,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "10:40"
       },
       {
         "sno": 500,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "10:50"
       },
       {
         "sno": 501,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "11:00"
       },
       {
         "sno": 502,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "11:10"
       },
       {
         "sno": 503,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "11:20"
       },
       {
@@ -167530,26 +167530,26 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "11:30"
       },
       {
         "sno": 505,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "11:40"
       },
       {
         "sno": 506,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "11:50"
       },
       {
@@ -167557,17 +167557,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "12:00"
       },
       {
         "sno": 508,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "12:10"
       },
       {
@@ -167575,17 +167575,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "12:30"
       },
       {
         "sno": 510,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "12:50"
       },
       {
@@ -167593,17 +167593,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "13:00"
       },
       {
         "sno": 512,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "13:20"
       },
       {
@@ -167611,35 +167611,35 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "13:30"
       },
       {
         "sno": 514,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "13:40"
       },
       {
         "sno": 515,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "13:50"
       },
       {
         "sno": 516,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "14:10"
       },
       {
@@ -167647,17 +167647,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "14:20"
       },
       {
         "sno": 518,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "14:30"
       },
       {
@@ -167665,17 +167665,17 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "14:50"
       },
       {
         "sno": 520,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "15:10"
       },
       {
@@ -167683,35 +167683,35 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "15:20"
       },
       {
         "sno": 522,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "15:30"
       },
       {
         "sno": 523,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "15:50"
       },
       {
         "sno": 524,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "16:10"
       },
       {
@@ -167719,7 +167719,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- RISHIKESH",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "RISHIKESH",
         "Departure_Time": "16:20"
       },
@@ -167728,26 +167728,26 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "16:30"
       },
       {
         "sno": 527,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "16:50"
       },
       {
         "sno": 528,
         "Bus_Stand_Name": "YAMUNANAGAR",
-        "Route_Name": "YAMUNANAGAR- SAHARAN PUR",
+        "Route_Name": "YAMUNANAGAR- SAHARANPUR",
         "From": "YAMUNANAGAR",
         "Via": "KALANAUR, SARSAWA",
-        "To": "SAHARAN PUR",
+        "To": "SAHARANPUR",
         "Departure_Time": "17:10"
       },
       {
@@ -167755,7 +167755,7 @@
         "Bus_Stand_Name": "YAMUNANAGAR",
         "Route_Name": "YAMUNANAGAR- HARIDWAR",
         "From": "YAMUNANAGAR",
-        "Via": "SAHARAN PUR, RURKEE",
+        "Via": "SAHARANPUR, RURKEE",
         "To": "HARIDWAR",
         "Departure_Time": "17:40"
       }
