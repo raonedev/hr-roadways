@@ -1,4 +1,7 @@
+import 'dart:developer' as dev;
+
 import 'package:flutter/material.dart';
+import 'package:hugeicons/hugeicons.dart';
 import 'package:provider/provider.dart';
 import 'package:hrroadways/colors.dart';
 import 'package:hrroadways/models/bus_route_model.dart';
@@ -111,17 +114,23 @@ class _HomeScreenState extends State<HomeScreen> {
     final routesProvider = Provider.of<RoutesSearchProvider>(context);
 
     return Scaffold(
-      // backgroundColor: Colors.transparent,
       body: CustomScrollView(
         slivers: <Widget>[
           SliverAppBar(
             expandedHeight: 350.0,
             floating: true,
             pinned: true,
+            backgroundColor: AppColors.darkCard,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.only(
+                bottomLeft: Radius.circular(20),
+                bottomRight: Radius.circular(20),
+              ),
+            ),
             flexibleSpace: LayoutBuilder(
               builder: (BuildContext context, BoxConstraints constraints) {
                 final double currentHeight = constraints.biggest.height;
-                final bool isCollapsed = currentHeight < kToolbarHeight + 30;
+                final bool isCollapsed = currentHeight < kToolbarHeight + 50;
                 return FlexibleSpaceBar(
                   centerTitle: true,
                   title:
@@ -129,7 +138,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           ? Text(
                             '${fromController.text.trim()} to ${toController.text.trim()}',
                             style: TextStyle(
-                              color: AppColors.dark,
+                              color: AppColors.light,
                               fontWeight: FontWeight.bold,
                               fontSize: 16,
                             ),
@@ -147,7 +156,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
-                      (fromController.text.isNotEmpty || toController.text.isNotEmpty)
+                      (fromController.text.isNotEmpty ||
+                              toController.text.isNotEmpty)
                           ? "\nPlease try with different routes"
                           : "\n\nNote: This is not an official Haryana Roadways app. \nData is sourced from https://hartrans.gov.in/ for public convenience.",
                       style: TextStyle(
@@ -176,96 +186,86 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget buildSearchCard() {
     return Padding(
       padding: const EdgeInsets.only(
-        left: 16.0,
-        right: 16,
-        top: kToolbarHeight,
+        top: kToolbarHeight + 20,
+        left: 20,
+        right: 20,
       ),
-      child: Container(
-        padding: const EdgeInsets.all(20),
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            colors: [Colors.black, AppColors.dark, Colors.purple],
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            stops: [0.5, 0.8, 1],
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            "From",
+            style: TextStyle(
+              color: AppColors.textSecondaryColor,
+              fontWeight: FontWeight.w600,
+            ),
           ),
-          borderRadius: BorderRadius.circular(16),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withValues(alpha: 0.2),
-              spreadRadius: 2,
-              blurRadius: 10,
-              offset: const Offset(0, 5),
-            ),
-          ],
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              "From",
-              style: TextStyle(
-                color: AppColors.background,
-                fontWeight: FontWeight.w600,
-              ),
-            ),
-            const SizedBox(height: 8),
-            Autocomplete<String>(
-              optionsBuilder: (TextEditingValue textEditingValue) {
-                if (textEditingValue.text.isEmpty) {
-                  return const Iterable<String>.empty();
-                }
-                return locations.where(
-                  (option) => option.toLowerCase().contains(
-                    textEditingValue.text.toLowerCase(),
+          const SizedBox(height: 8),
+          Autocomplete<String>(
+            optionsBuilder: (TextEditingValue textEditingValue) {
+              if (textEditingValue.text.isEmpty) {
+                return const Iterable<String>.empty();
+              }
+              return locations.where(
+                (option) => option.toLowerCase().contains(
+                  textEditingValue.text.toLowerCase(),
+                ),
+              );
+            },
+            onSelected: (String selection) {
+              fromController.text = selection;
+            },
+            fieldViewBuilder: (
+              context,
+              controller,
+              focusNode,
+              onFieldSubmitted,
+            ) {
+              controller.text = fromController.text;
+              return TextFormField(
+                controller: controller,
+                focusNode: focusNode,
+                style: TextStyle(color: AppColors.light),
+
+                decoration: InputDecoration(
+                  hintText: "Enter origin",
+                  contentPadding: EdgeInsets.symmetric(
+                    horizontal: 16,
+                    vertical: 2,
                   ),
-                );
-              },
-              onSelected: (String selection) {
-                fromController.text = selection;
-              },
-              fieldViewBuilder: (
-                context,
-                controller,
-                focusNode,
-                onFieldSubmitted,
-              ) {
-                controller.text = fromController.text;
-                return TextFormField(
-                  controller: controller,
-                  focusNode: focusNode,
-                  decoration: InputDecoration(
-                    hintText: "Enter origin",
-                    hintStyle: TextStyle(
-                      color: AppColors.dark.withValues(alpha: 0.5),
+                  prefixIcon: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: HugeIcon(
+                      icon: HugeIcons.strokeRoundedBus01,
+                      color: AppColors.iconColor,
                     ),
-                    contentPadding: EdgeInsets.symmetric(
-                      vertical: 2,
-                      horizontal: 16,
-                    ),
-                    fillColor: AppColors.background,
-                    filled: true,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(10),
-                      borderSide: BorderSide.none,
-                    ),
-                  ),
-                );
-              },
-            ),
-            const SizedBox(height: 16),
-            Row(
-              children: [
-                Text(
-                  "To",
-                  style: TextStyle(
-                    color: AppColors.background,
-                    fontWeight: FontWeight.w600,
                   ),
                 ),
-                Spacer(),
-                IconButton(
-                  icon: Icon(Icons.swap_vert_rounded, color: Colors.white),
+              );
+            },
+          ),
+          const SizedBox(height: 16),
+          Row(
+            children: [
+              Text(
+                "To",
+                style: TextStyle(
+                  color: AppColors.textSecondaryColor,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+              Spacer(),
+              Padding(
+                padding: const EdgeInsets.only(bottom: 8.0),
+                child: IconButton(
+                  style: IconButton.styleFrom(
+                    backgroundColor: Color(0xff282E3D),
+                  ),
+                  icon: HugeIcon(
+                    icon: HugeIcons.strokeRoundedArrowReloadVertical,
+                    color: AppColors.iconColor,
+                    size: 16,
+                  ),
                   onPressed: () {
                     setState(() {
                       final String temp = fromController.text.trim();
@@ -274,80 +274,78 @@ class _HomeScreenState extends State<HomeScreen> {
                     });
                   },
                 ),
-              ],
-            ),
-            const SizedBox(height: 8),
-            Autocomplete<String>(
-              optionsBuilder: (TextEditingValue textEditingValue) {
-                if (textEditingValue.text.isEmpty) {
-                  return const Iterable<String>.empty();
-                }
-                return locations.where(
-                  (option) => option.toLowerCase().contains(
-                    textEditingValue.text.toLowerCase(),
+              ),
+            ],
+          ),
+          Autocomplete<String>(
+            optionsBuilder: (TextEditingValue textEditingValue) {
+              if (textEditingValue.text.isEmpty) {
+                return const Iterable<String>.empty();
+              }
+              return locations.where(
+                (option) => option.toLowerCase().contains(
+                  textEditingValue.text.toLowerCase(),
+                ),
+              );
+            },
+            onSelected: (String selection) {
+              toController.text = selection;
+            },
+            fieldViewBuilder: (
+              context,
+              controller,
+              focusNode,
+              onFieldSubmitted,
+            ) {
+              controller.text = toController.text;
+              return TextFormField(
+                controller: controller,
+                focusNode: focusNode,
+                style: TextStyle(color: AppColors.light),
+                decoration: InputDecoration(
+                  hintText: "Enter destination",
+                  contentPadding: EdgeInsets.symmetric(
+                    horizontal: 16,
+                    vertical: 2,
                   ),
-                );
-              },
-              onSelected: (String selection) {
-                toController.text = selection;
-              },
-              fieldViewBuilder: (
-                context,
-                controller,
-                focusNode,
-                onFieldSubmitted,
-              ) {
-                controller.text = toController.text;
-                return TextFormField(
-                  controller: controller,
-                  focusNode: focusNode,
-                  decoration: InputDecoration(
-                    hintText: "Enter destination",
-                    hintStyle: TextStyle(
-                      color: AppColors.dark.withValues(alpha: 0.5),
+                  prefixIcon: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: HugeIcon(
+                      icon: HugeIcons.strokeRoundedLocation01,
+                      color: AppColors.iconColor,
                     ),
-                    contentPadding: EdgeInsets.symmetric(
-                      vertical: 2,
-                      horizontal: 16,
-                    ),
-                    fillColor: AppColors.background,
-                    filled: true,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(10),
-                      borderSide: BorderSide.none,
-                    ),
-                  ),
-                );
-              },
-            ),
-            const SizedBox(height: 24),
-            SizedBox(
-              width: double.infinity,
-              child: ElevatedButton(
-                onPressed: () {
-                  context.read<RoutesSearchProvider>().searchRoutes(
-                    fromController.text.trim(),
-                    toController.text.trim(),
-                  );
-                },
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(vertical: 16),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
                   ),
                 ),
-                child: const Text(
-                  "Search",
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
+              );
+            },
+          ),
+          const SizedBox(height: 24),
+          SizedBox(
+            width: double.infinity,
+            child: ElevatedButton(
+              onPressed: () {
+                context.read<RoutesSearchProvider>().searchRoutes(
+                  fromController.text.trim(),
+                  toController.text.trim(),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                padding: const EdgeInsets.symmetric(vertical: 16),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+              ),
+              child: const Text(
+                "Search",
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
                 ),
               ),
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }

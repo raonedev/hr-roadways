@@ -29,11 +29,11 @@ class RoutesSearchProvider extends ChangeNotifier {
     List<BusRoute> viaSequenceRoutes = [];
 
     for (var route in _allRoutes) {
-      if (route.from.toLowerCase().contains(from.toLowerCase())&&
+      if (route.from.toLowerCase().contains(from.toLowerCase()) &&
           route.to.toLowerCase().contains(to.toLowerCase())) {
         // Direct route (From → To)
         directRoutes.add(route);
-      } else if (route.from.toLowerCase().contains(from.toLowerCase() )&&
+      } else if (route.from.toLowerCase().contains(from.toLowerCase()) &&
           route.via.toLowerCase().contains(to.toLowerCase())) {
         // From → Via
         fromViaRoutes.add(route);
@@ -49,21 +49,28 @@ class RoutesSearchProvider extends ChangeNotifier {
     }
 
     // Merge lists in priority order
-    _searchResult = [...directRoutes, ...fromViaRoutes, ...viaToRoutes, ...viaSequenceRoutes];
+    _searchResult = [
+      ...directRoutes,
+      ...fromViaRoutes,
+      ...viaToRoutes,
+      ...viaSequenceRoutes,
+    ];
 
     _isLoading = false;
     notifyListeners();
   }
 
-// Helper method to check if from and to locations exist in via sequence or route name
+  // Helper method to check if from and to locations exist in via sequence or route name
   bool _isValidViaSequence(String text, String from, String to) {
     if (text.isEmpty) return false;
 
     // Split text by common delimiters (-, |, ,, etc.)
-    List<String> stops = text.split(RegExp(r'[-|,\s]+'))
-        .map((stop) => stop.trim().toLowerCase())
-        .where((stop) => stop.isNotEmpty)
-        .toList();
+    List<String> stops =
+        text
+            .split(RegExp(r'[-|,\s]+'))
+            .map((stop) => stop.trim().toLowerCase())
+            .where((stop) => stop.isNotEmpty)
+            .toList();
 
     // Find indices of from and to in sequence
     int fromIndex = -1;
