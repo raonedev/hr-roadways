@@ -114,6 +114,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final routesProvider = Provider.of<RoutesSearchProvider>(context);
 
     return Scaffold(
+      backgroundColor: Colors.white,
       body: CustomScrollView(
         slivers: <Widget>[
           SliverAppBar(
@@ -212,6 +213,57 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               );
             },
+            optionsViewBuilder: (
+              BuildContext context,
+              AutocompleteOnSelected<String> onSelected,
+              Iterable<String> options,
+            ) {
+              return Align(
+                alignment: Alignment.topLeft,
+                child: Material(
+                  color: AppColors.darkCard,
+                  elevation: 8.0,
+                  borderRadius: BorderRadius.circular(12),
+                  child: SizedBox(
+                    // Adjust width as needed, typically matching the input field
+                    width: MediaQuery.of(context).size.width - 40,
+                    child: ListView.builder(
+                      padding: EdgeInsets.zero,
+                      shrinkWrap: true,
+                      itemCount: options.length,
+                      itemBuilder: (BuildContext context, int index) {
+                        final String option = options.elementAt(index);
+                        return InkWell(
+                          onTap: () {
+                            onSelected(option);
+                          },
+                          child: Padding(
+                            padding: const EdgeInsets.all(16.0),
+                            child: Row(
+                              children: [
+                                Icon(
+                                  Icons.location_on_outlined,
+                                  color: AppColors.iconColor,
+                                  size: 20,
+                                ),
+                                const SizedBox(width: 12),
+                                Text(
+                                  option,
+                                  style: TextStyle(
+                                    color: AppColors.light,
+                                    fontSize: 16,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                  ),
+                ),
+              );
+            },
             onSelected: (String selection) {
               fromController.text = selection;
             },
@@ -288,6 +340,58 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               );
             },
+            optionsViewBuilder: (
+              BuildContext context,
+              AutocompleteOnSelected<String> onSelected,
+              Iterable<String> options,
+            ) {
+              return Align(
+                alignment: Alignment.topLeft,
+                child: Material(
+                  color: AppColors.darkCard,
+                  elevation: 8.0,
+                  borderRadius: BorderRadius.circular(12),
+                  child: SizedBox(
+                    // Adjust width as needed, typically matching the input field
+                    width: MediaQuery.of(context).size.width - 40,
+                    child: ListView.builder(
+                      padding: EdgeInsets.zero,
+                      shrinkWrap: true,
+                      itemCount: options.length,
+                      itemBuilder: (BuildContext context, int index) {
+                        final String option = options.elementAt(index);
+                        return InkWell(
+                          onTap: () {
+                            onSelected(option);
+                          },
+                          child: Padding(
+                            padding: const EdgeInsets.all(16.0),
+                            child: Row(
+                              children: [
+                                Icon(
+                                  Icons.location_on_outlined,
+                                  color: AppColors.iconColor,
+                                  size: 20,
+                                ),
+                                const SizedBox(width: 12),
+                                Text(
+                                  option,
+                                  style: TextStyle(
+                                    color: AppColors.light,
+                                    fontSize: 16,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                  ),
+                ),
+              );
+            },
+
             onSelected: (String selection) {
               toController.text = selection;
             },
