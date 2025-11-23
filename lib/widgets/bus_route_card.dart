@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hrroadways/colors.dart';
 import 'package:hrroadways/models/bus_route_model.dart';
+
 class BusRouteCard extends StatelessWidget {
   final BusRoute route;
 
@@ -40,7 +41,7 @@ class BusRouteCard extends StatelessWidget {
             route.busStandName,
             style: TextStyle(
               fontSize: 14,
-              color: AppColors.dark.withOpacity(0.7),
+              color: AppColors.dark.withValues(alpha: 0.7),
             ),
           ),
 
@@ -60,7 +61,7 @@ class BusRouteCard extends StatelessWidget {
                       style: TextStyle(
                         fontSize: 14,
                         fontWeight: FontWeight.w600,
-                        color: AppColors.temp.withOpacity(0.8),
+                        color: AppColors.temp.withValues(alpha: 0.8),
                       ),
                     ),
                     Text(
@@ -82,7 +83,7 @@ class BusRouteCard extends StatelessWidget {
                         style: TextStyle(
                           fontSize: 14,
                           fontWeight: FontWeight.w600,
-                          color: AppColors.temp.withOpacity(0.8),
+                          color: AppColors.temp.withValues(alpha: 0.8),
                         ),
                       ),
                       Text(
@@ -103,7 +104,7 @@ class BusRouteCard extends StatelessWidget {
                       style: TextStyle(
                         fontSize: 14,
                         fontWeight: FontWeight.w600,
-                        color: AppColors.temp.withOpacity(0.8),
+                        color: AppColors.temp.withValues(alpha: 0.8),
                       ),
                     ),
                     Text(
@@ -127,7 +128,7 @@ class BusRouteCard extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 14,
                   fontWeight: FontWeight.w600,
-                  color: AppColors.temp.withOpacity(0.8),
+                  color: AppColors.temp.withValues(alpha: 0.8),
                 ),
               ),
               Text(
