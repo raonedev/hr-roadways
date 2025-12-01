@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:hrroadways/colors.dart';
 import 'package:hrroadways/common/timeline.dart';
 import 'package:hugeicons/hugeicons.dart';
+import 'package:provider/provider.dart';
+
+import '../providers/routes_path_search_provider.dart';
 
 class RoutesPage extends StatefulWidget {
   const RoutesPage({super.key});
@@ -40,60 +43,79 @@ class _RoutesPageState extends State<RoutesPage> {
               ),
             ),
           ),
-          SingleChildScrollView(
-            child: Column(
-              children: [
-                Timeline(
-                  indicatorSize: 50,
-                  indicators: <Widget>[
-                    CircleAvatar(
-                      backgroundColor: Colors.white,
-                      child: Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: CircleAvatar(
-                          backgroundColor: AppColors.purple,
-                          child: HugeIcon(
-                            icon: HugeIcons.strokeRoundedBus01,
-                            color: Colors.white,
-                            size: 16,
-                          ),
-                        ),
+          Consumer<RoutesPathSearchProvider>(
+            builder: (context, provider, child) {
+              if (provider.isLoading) {
+                return SizedBox(
+                  width: 300,
+                  height: 300,
+                  child: Center(child: CircularProgressIndicator()),
+                );
+              }
+              if (provider.path.isNotEmpty) {
+                return SingleChildScrollView(
+                  child: Column(
+                    children: [
+                      Timeline(
+                        indicatorSize: 50,
+                        indicators: List.generate(provider.path.length, (
+                          index,
+                        ) {
+                          if (index == 0) {
+                            // First indicator
+                            return CircleAvatar(
+                              backgroundColor: Colors.white,
+                              child: Padding(
+                                padding: const EdgeInsets.all(8.0),
+                                child: CircleAvatar(
+                                  backgroundColor: AppColors.purple,
+                                  child: HugeIcon(
+                                    icon: HugeIcons.strokeRoundedBus01,
+                                    color: Colors.white,
+                                    size: 16,
+                                  ),
+                                ),
+                              ),
+                            );
+                          } else if (index == provider.path.length - 1) {
+                            // Last indicator
+                            return CircleAvatar(
+                              backgroundColor: Colors.white,
+                              child: Padding(
+                                padding: const EdgeInsets.all(8.0),
+                                child: CircleAvatar(
+                                  backgroundColor: AppColors.purple,
+                                  child: HugeIcon(
+                                    icon: HugeIcons.strokeRoundedLocation01,
+                                    color: Colors.white,
+                                    size: 16,
+                                  ),
+                                ),
+                              ),
+                            );
+                          } else {
+                            // Middle indicators
+                            return UpcomingIndicator();
+                          }
+                        }),
+                        children: List.generate(provider.path.length, (index) {
+                          return TimelineCard(
+                            time: "${(index + 1) * 12}",
+                            title: provider.path[index], // name from list
+                          );
+                        }),
                       ),
-                    ),
-                    UpcomingIndicator(),
-                    UpcomingIndicator(),
-                    UpcomingIndicator(),
-                    UpcomingIndicator(),
-                    UpcomingIndicator(),
-                    UpcomingIndicator(),
-                    CircleAvatar(
-                      backgroundColor: Colors.white,
-                      child: Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: CircleAvatar(
-                          backgroundColor: AppColors.purple,
-                          child: HugeIcon(
-                            icon: HugeIcons.strokeRoundedLocation01,
-                            color: Colors.white,
-                            size: 16,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
-                  children: <Widget>[
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                    TimelineCard(time: '08:00', title: 'Karnal'),
-                  ],
-                ),
-              ],
-            ),
+                    ],
+                  ),
+                );
+              } else {
+                return SizedBox(
+                  width: 300,
+                  height: 300,
+                  child: Center(child: Text("No Rountes Found")),
+                );
+              }
+            },
           ),
         ],
       ),
@@ -137,6 +159,7 @@ class TimelineCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
       ),
       margin: EdgeInsets.only(top: 16, left: 12),
+      padding: EdgeInsets.symmetric(horizontal: 12),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
@@ -173,7 +196,7 @@ class TimelineCard extends StatelessWidget {
                     color: AppColors.purple,
                   ),
                 ),
-                Text("PM"),
+                Text("KM"),
               ],
             ),
           ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hrroadways/pages/routes_page.dart';
+import 'package:hrroadways/providers/routes_path_search_provider.dart';
 import 'package:hugeicons/hugeicons.dart';
 import 'package:provider/provider.dart';
 import 'package:hrroadways/colors.dart';
@@ -177,6 +178,10 @@ class _HomeScreenState extends State<HomeScreen> {
                   final BusRoute route = routesProvider.searchResult[index];
                   return GestureDetector(
                     onTap: () {
+                      context.read<RoutesPathSearchProvider>().searchPath(
+                        fromController.text.trim(),
+                        toController.text.trim(),
+                      );
                       Navigator.push(
                         context,
                         MaterialPageRoute(builder: (context) => RoutesPage()),
