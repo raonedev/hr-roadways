@@ -213,7 +213,7 @@
     },
     {
         "name": "BADSA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.514272006814103, 76.86674595187309"
     },
     {
         "name": "BADSHAHPUR HARYANA INDIA",
@@ -221,11 +221,11 @@
     },
     {
         "name": "BADWANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.46572037229449, 76.17989658759619"
     },
     {
         "name": "BAGOT HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.422847181183478, 76.2659490632051"
     },
     {
         "name": "BAGPAT UTTAR PRADESH INDIA",
@@ -233,7 +233,7 @@
     },
     {
         "name": "BAGPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.20969175795061, 77.49673852700279"
     },
     {
         "name": "BAHADURGARH HARYANA INDIA",
@@ -241,7 +241,7 @@
     },
     {
         "name": "BAHADUR PUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.334689338952153, 77.42846585982234"
     },
     {
         "name": "BAHU HARYANA INDIA",
@@ -249,7 +249,7 @@
     },
     {
         "name": "BAHU JHOLRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.451049769673812, 76.34860643193325"
     },
     {
         "name": "BAIJNATH HIMACHAL PRADESH INDIA",
@@ -257,19 +257,19 @@
     },
     {
         "name": "BAJANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.151214039357896, 76.87227518963084"
     },
     {
         "name": "BAKAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.64112516588983, 76.5753692655329"
     },
     {
         "name": "BAKAR PUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.114740772158424, 77.37956618853123"
     },
     {
         "name": "BAKNOUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.24972536974534, 76.69102397128114"
     },
     {
         "name": "BALAJI RAJASTHAN INDIA",
@@ -281,7 +281,7 @@
     },
     {
         "name": "BALLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.505633494110857, 76.7872237047931"
     },
     {
         "name": "BALLABGARH HARYANA INDIA",
@@ -289,7 +289,7 @@
     },
     {
         "name": "BALPABANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.549582908601543, 76.81215289757968"
     },
     {
         "name": "BALSAMAND HARYANA INDIA",
@@ -297,7 +297,7 @@
     },
     {
         "name": "BANAWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.3965148956306, 75.43271898709972"
     },
     {
         "name": "BANI HARYANA INDIA",
@@ -305,7 +305,7 @@
     },
     {
         "name": "BANIPUR CHOWK HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.099984341734157, 76.56184646829875"
     },
     {
         "name": "BANUR PUNJAB INDIA",
@@ -313,11 +313,11 @@
     },
     {
         "name": "BANWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.712003464735186, 74.80140202973674"
     },
     {
         "name": "BAPOLI HARYANA INDIA",
-        "coordinates": "29.3335289, 77.088255"
+        "coordinates": "29.338188489505374, 77.0837902676419"
     },
     {
         "name": "BAPORA HARYANA INDIA",
@@ -325,7 +325,7 @@
     },
     {
         "name": "BARANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": ""
     },
     {
         "name": "BARARA HARYANA INDIA",
@@ -333,11 +333,11 @@
     },
     {
         "name": "BARDU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.61203542220114, 75.82718864288799"
     },
     {
         "name": "BARELY UTTAR PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.36729348949968, 79.42983178777838"
     },
     {
         "name": "BARNALA PUNJAB INDIA",
@@ -345,7 +345,7 @@
     },
     {
         "name": "BAROUT UTTAR PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.09947536483978, 77.26184583578001"
     },
     {
         "name": "BARSI MAHARASHTRA INDIA",
@@ -353,15 +353,15 @@
     },
     {
         "name": "BARSIN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.51623468545059, 75.51021412495349"
     },
     {
         "name": "BARTHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.87471282546758, 76.72401263568813"
     },
     {
         "name": "BARUWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.600868607969073, 75.20571826465797"
     },
     {
         "name": "BARWALA HARYANA INDIA",
@@ -385,7 +385,7 @@
     },
     {
         "name": "BAWANA AUCHANDI BORDER DELHI/HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.812231084613448, 77.01087919702898"
     },
     {
         "name": "BAWANI KHERA HARYANA INDIA",
@@ -401,19 +401,11 @@
     },
     {
         "name": "BEHAL HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "BEHRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.629581834298445, 75.61773776325506"
     },
     {
         "name": "BEHROR RAJASTHAN INDIA",
         "coordinates": "27.8900657, 76.2858227"
-    },
-    {
-        "name": "BEJNATH HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "BERI HARYANA INDIA",
@@ -433,15 +425,15 @@
     },
     {
         "name": "BHAKRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.0887915940315, 76.0088252646777"
     },
     {
         "name": "BHALGRAH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.961122650016005, 77.09288305477222"
     },
     {
         "name": "BHAMBHEWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.821825194279633, 76.64821025655415"
     },
     {
         "name": "BHANGU PUNJAB INDIA",
@@ -461,7 +453,7 @@
     },
     {
         "name": "BHATSANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.168950081559498, 76.75332979974357"
     },
     {
         "name": "BHATTU HARYANA INDIA",
@@ -493,7 +485,7 @@
     },
     {
         "name": "BHODIA KHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.664430615628646, 75.83979253938847"
     },
     {
         "name": "BHOGPUR PUNJAB INDIA",
@@ -505,11 +497,11 @@
     },
     {
         "name": "BHUDLADA PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.92614841303447, 75.55409401663685"
     },
     {
         "name": "BHUGARKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.929399763297024, 76.16250866128163"
     },
     {
         "name": "BHUNA HARYANA INDIA",
@@ -517,7 +509,7 @@
     },
     {
         "name": "BHUNI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.20029389609565, 76.6550654464229"
     },
     {
         "name": "BHUNNI HARYANA INDIA",
@@ -537,7 +529,7 @@
     },
     {
         "name": "BIDOLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.829560514899978, 75.78921976892372"
     },
     {
         "name": "BIGHAR HARYANA INDIA",
@@ -545,11 +537,11 @@
     },
     {
         "name": "BIJJUWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.733712771424965, 74.73479747430835"
     },
     {
         "name": "BIJJUWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.733712771424965, 74.73479747430835"
     },
     {
         "name": "BIJNOR UTTAR PRADESH INDIA",
@@ -565,11 +557,11 @@
     },
     {
         "name": "BILOCHPURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.54498788930734, 76.54603423868261"
     },
     {
         "name": "BIRABADI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.693042831388343, 75.36211286386417"
     },
     {
         "name": "BIRAN HARYANA INDIA",
@@ -581,7 +573,7 @@
     },
     {
         "name": "BIRUWALAGUDHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.66556477754705, 75.07152232034215"
     },
     {
         "name": "BIWANI HARYANA INDIA",
@@ -589,11 +581,11 @@
     },
     {
         "name": "BOH BABYAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.37322605036803, 76.87440612459457"
     },
     {
         "name": "BOHKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.220135525680295, 76.3377810401092"
     },
     {
         "name": "BOJAWAS HARYANA INDIA",
@@ -605,19 +597,19 @@
     },
     {
         "name": "BRARA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.21216191550798, 77.04035963935586"
     },
     {
         "name": "BRIJGHAT UTTAR PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.75558254816163, 78.1409239216609"
     },
     {
         "name": "BUAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.22468585712884, 76.84105039424354"
     },
     {
         "name": "BUDLADA PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.92540454264549, 75.55392234283413"
     },
     {
         "name": "BULANDSHAHAR UTTAR PRADESH INDIA",
@@ -625,51 +617,51 @@
     },
     {
         "name": "BUPPA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.659322595784637, 75.06200544589937"
     },
     {
         "name": "BURAJ HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.633689889185302, 75.02721192787244"
     },
     {
         "name": "CHADIWAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.438635043167835, 75.12579922631413"
     },
     {
         "name": "CHAHAR HARYANA INDIA",
         "coordinates": "28.6027604, 75.7210321"
     },
     {
-        "name": "CHAKKAN JAMMU AND KASHMIR INDIA",
-        "coordinates": "Not Found"
+        "name": "CHAKKAN HARYANA INDIA",
+        "coordinates": "29.661411058221194, 74.789085366258"
     },
     {
         "name": "CHAMBA HIMACHAL PRADESH INDIA",
-        "coordinates": "32.6923316, 76.1631552"
+        "coordinates": "32.55385784394774, 76.12607239235719"
     },
     {
         "name": "CHANANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.881473134730236, 75.72802301308229"
     },
     {
         "name": "CHANANI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.881473134730236, 75.72802301308229"
     },
     {
         "name": "CHANDIGARH CHANDIGARH INDIA",
         "coordinates": "30.7334421, 76.7797143"
     },
     {
-        "name": "CHANDOLI UTTAR PRADESH INDIA",
-        "coordinates": "Not Found"
+        "name": "CHANDOLI HARYANA INDIA",
+        "coordinates": "29.4503492151585, 76.99006936796872"
     },
     {
         "name": "CHANGROAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.4503492151585, 76.9909276748557"
     },
     {
         "name": "CHAPPAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.402933152734484, 76.58511139484504"
     },
     {
         "name": "CHARKHI DADRI HARYANA INDIA",
@@ -693,11 +685,11 @@
     },
     {
         "name": "CHHUCHHAKWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.603152559591976, 76.52368037964374"
     },
     {
         "name": "CHINTAPURANI HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.805331767939627, 76.10491266764068"
     },
     {
         "name": "CHINTPURNI HIMACHAL PRADESH INDIA",
@@ -713,23 +705,19 @@
     },
     {
         "name": "CHITROLI HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "CHOPTA HARYANA INDIA",
-        "coordinates": "29.3739549, 75.0801457"
+        "coordinates": "28.36388935268453, 76.30294452343182"
     },
     {
         "name": "CHORA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.557014279242797, 77.03735588223564"
     },
     {
         "name": "CHORMAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.804677445060513, 74.85380165381439"
     },
     {
         "name": "CHOTALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.780917753675045, 74.52371315132129"
     },
     {
         "name": "CHUCHAKWAS HARYANA INDIA",
@@ -761,7 +749,7 @@
     },
     {
         "name": "DAMKORA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.491329190190193, 75.74368145945087"
     },
     {
         "name": "DAMLA HARYANA INDIA",
@@ -769,11 +757,11 @@
     },
     {
         "name": "DANCHOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.987552301518722, 75.97987012828698"
     },
     {
         "name": "DAND HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.885698638918665, 76.62089973039964"
     },
     {
         "name": "DANG HARYANA INDIA",
@@ -781,11 +769,11 @@
     },
     {
         "name": "DARIYAPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.884189191350934, 75.75540531406469"
     },
     {
         "name": "DARPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.371694473472104, 77.45565782134588"
     },
     {
         "name": "DATTA HARYANA INDIA",
@@ -797,7 +785,7 @@
     },
     {
         "name": "DAWANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.241563419592563, 76.39519200807516"
     },
     {
         "name": "DEHRA HIMACHAL PRADESH INDIA",
@@ -813,15 +801,15 @@
     },
     {
         "name": "DELHI ISBT DELHI INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.667980243729875, 77.22929344382312"
     },
     {
         "name": "DELUMAJRA PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.242785865195703, 76.56431905794089"
     },
     {
         "name": "DEPAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.07572684214454, 75.90101385695331"
     },
     {
         "name": "DERA BASSI PUNJAB INDIA",
@@ -829,23 +817,23 @@
     },
     {
         "name": "DERA BEYAS PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.543229537923644, 75.3297059525697"
     },
     {
         "name": "DERABASSI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.58541630856922, 76.83971457413014"
     },
     {
         "name": "DERABIAS PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.542595526246593, 75.32399489774996"
     },
     {
         "name": "DERABYAS PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.542595526246593, 75.32399489774996"
     },
     {
         "name": "DERRA BEAS PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.542595526246593, 75.32399489774996"
     },
     {
         "name": "DESU HARYANA INDIA",
@@ -861,7 +849,7 @@
     },
     {
         "name": "DEVRALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.68558974344324, 75.81181167829654"
     },
     {
         "name": "DHAB DHANI HARYANA INDIA",
@@ -885,7 +873,7 @@
     },
     {
         "name": "DHAMTHAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.698136370644125, 76.01897466179642"
     },
     {
         "name": "DHANA HARYANA INDIA",
@@ -901,15 +889,15 @@
     },
     {
         "name": "DHANGER HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.46853889440884, 75.5169724171963"
     },
     {
         "name": "DHANI BATOTHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.98695723500268, 76.13074174905708"
     },
     {
         "name": "DHANI DHAKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.579806681570034, 75.43075558226029"
     },
     {
         "name": "DHANI MAHU HARYANA INDIA",
@@ -917,27 +905,23 @@
     },
     {
         "name": "DHANORI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.250611835439912, 76.8108085208148"
     },
     {
         "name": "DHANOURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.261731635769472, 76.81932420098674"
     },
     {
         "name": "DHANOURI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.250611835439912, 76.8108085208148"
     },
     {
         "name": "DHANSA BORDER DELHI/HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.553092756922872, 76.8658395505652"
     },
     {
         "name": "DHARANWAS HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "DHARASHALA HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.30673258810924, 76.01140023931627"
     },
     {
         "name": "DHARMSHALA HIMACHAL PRADESH INDIA",
@@ -945,7 +929,7 @@
     },
     {
         "name": "DHARNIA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.408796576814126, 75.50738081752878"
     },
     {
         "name": "DHAROLI HARYANA INDIA",
@@ -965,7 +949,7 @@
     },
     {
         "name": "DHIGHOT HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.03696153722182, 77.37509671561381"
     },
     {
         "name": "DHOBI RAJASTHAN INDIA",
@@ -973,19 +957,19 @@
     },
     {
         "name": "DHOLA KUNWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.592175924375624, 77.16104066375931"
     },
     {
-        "name": "DHOLERA GUJARAT INDIA",
-        "coordinates": "22.2495856, 72.1959892"
+        "name": "DHOLERA HARYANA INDIA",
+        "coordinates": "27.9335666544022, 76.0705221416317"
     },
     {
         "name": "DHRAMSHALA HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "32.21917484456749, 76.32298471572841"
     },
     {
         "name": "DHUDIANWALI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.610606663788044, 74.71915482340107"
     },
     {
         "name": "DIGHAL HARYANA INDIA",
@@ -993,15 +977,15 @@
     },
     {
         "name": "DIGHAWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.58319196437451, 75.82177524490626"
     },
     {
         "name": "DING MANDI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.45507643204059, 75.20033722641224"
     },
     {
         "name": "DING ROAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.45507643204059, 75.20033722641224"
     },
     {
         "name": "DIWANA HARYANA INDIA",
@@ -1009,7 +993,7 @@
     },
     {
         "name": "DOHAR MOHANPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.09901657588503, 76.02708280493715"
     },
     {
         "name": "DONGRA HARYANA INDIA",
@@ -1017,23 +1001,15 @@
     },
     {
         "name": "DOSRKA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "DRM OFFIC INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.27919686501327, 77.06877513099754"
     },
     {
         "name": "DUBAL DHAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.68417782333144, 76.48659106901253"
     },
     {
         "name": "DUBETA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "DUDUPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.949865598479228, 75.77902199332877"
     },
     {
         "name": "DULHERA HARYANA INDIA",
@@ -1041,39 +1017,35 @@
     },
     {
         "name": "DULHERI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.793111451028228, 75.8940330532955"
     },
     {
         "name": "DULOTH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.193360765842055, 76.08260060113602"
     },
     {
         "name": "DURANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.527266618303237, 76.47221443500544"
     },
     {
-        "name": "DURGAPUR WEST BENGAL INDIA",
-        "coordinates": "23.5350475, 87.3380425"
-    },
-    {
-        "name": "ELANABAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "DURGAPUR HARYANA INDIA",
+        "coordinates": "28.107053230330816, 77.27415739817096"
     },
     {
         "name": "ELLENABAD HARYANA INDIA",
         "coordinates": "29.444108, 74.6579499"
     },
     {
-        "name": "FAGGU HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "name": "FAGGU Haryana INDIA",
+        "coordinates": "29.77371109831295, 75.12220477155138"
     },
     {
         "name": "FAJILKA PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.400235945436933, 74.02996244483319"
     },
     {
         "name": "FALODI RAJASTHAN INDIA",
-        "coordinates": "24.585322, 76.167548"
+        "coordinates": "27.134535197263812, 72.36754809017089"
     },
     {
         "name": "FARIDABAD HARYANA INDIA",
@@ -1093,19 +1065,15 @@
     },
     {
         "name": "FARUKHNAGAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.453983977575422, 76.8381380891049"
     },
     {
         "name": "FATEH PUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.124060293552176, 77.3408735810691"
     },
     {
         "name": "FATEHABAD HARYANA INDIA",
         "coordinates": "29.5359209, 75.5752901"
-    },
-    {
-        "name": "FATEHPUR RAJASTHAN INDIA",
-        "coordinates": "25.1116761, 76.5811229"
     },
     {
         "name": "FATEHPUR TAGA HARYANA INDIA",
@@ -1121,39 +1089,39 @@
     },
     {
         "name": "FIROZPUR KALAN DELHI INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.318341648862976, 77.30748926684579"
     },
     {
         "name": "FRIDABAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.409041527785554, 77.31776780917696"
     },
     {
         "name": "FRIDPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.620093243180527, 77.00998926689364"
     },
     {
         "name": "FRUKHNAGAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.450908842332876, 76.82146547782526"
     },
     {
         "name": "FULIAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.634076730363596, 76.0121855252064"
     },
     {
         "name": "FULIYAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.634076730363596, 76.0121855252064"
     },
     {
         "name": "FURLAK HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.55798663088579, 76.92788510128531"
     },
     {
         "name": "GADWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.3931108469339, 77.3603880604185"
     },
     {
         "name": "GAGSHINA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.555231425471085, 76.88169112310887"
     },
     {
         "name": "GAJUWALA HARYANA INDIA",
@@ -1169,7 +1137,7 @@
     },
     {
         "name": "GANOUR MANDI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.131776180423373, 77.02441339756419"
     },
     {
         "name": "GARHI HARYANA INDIA",
@@ -1177,11 +1145,11 @@
     },
     {
         "name": "GARHI BHLOR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.288076532231155, 77.07647996072507"
     },
     {
         "name": "GARHI BIRBAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.9099007230812, 77.15369938053747"
     },
     {
         "name": "GAWAHI HARYANA INDIA",
@@ -1189,35 +1157,35 @@
     },
     {
         "name": "GAWALRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.230714512104175, 76.92296394324757"
     },
     {
         "name": "GEHLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.09657268864766, 76.05139463787133"
     },
     {
         "name": "GHELDI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.243428309074773, 76.99683319839137"
     },
     {
         "name": "GHELRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.24334720906074, 76.99666421922298"
     },
     {
         "name": "GHORANWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.63465528319295, 74.78676259587145"
     },
     {
         "name": "GHRAUNDA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.540488679098797, 76.97161206288956"
     },
     {
         "name": "GHUKANWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.722444233004587, 74.87524824352107"
     },
     {
         "name": "GINDRAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.620017826379126, 74.75836875433048"
     },
     {
         "name": "GOHANA HARYANA INDIA",
@@ -1225,11 +1193,11 @@
     },
     {
         "name": "GOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.483531743367376, 76.75886542120388"
     },
     {
         "name": "GOPALWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.702341226561412, 75.70727888203945"
     },
     {
         "name": "GORAKHPUR UTTAR PRADESH INDIA",
@@ -1245,11 +1213,11 @@
     },
     {
         "name": "GOTHRA JHANJHRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.326036010061053, 76.39405763874511"
     },
     {
         "name": "GOTHRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.82279989843212, 76.21305032255964"
     },
     {
         "name": "GOYLA KHURD DELHI INDIA",
@@ -1257,7 +1225,7 @@
     },
     {
         "name": "GUDYANI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.36007394678749, 76.53473256518481"
     },
     {
         "name": "GUMTHALA HARYANA INDIA",
@@ -1265,7 +1233,7 @@
     },
     {
         "name": "GURAWARA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.652849683481957, 76.69110421127783"
     },
     {
         "name": "GURUGRAM HARYANA INDIA",
@@ -1273,7 +1241,7 @@
     },
     {
         "name": "GURVARI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.134296287320772, 77.48582558513985"
     },
     {
         "name": "GWALIOR MADHYA PRADESH INDIA",
@@ -1281,11 +1249,11 @@
     },
     {
         "name": "HABRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.705776340519012, 76.63656486899133"
     },
     {
         "name": "HALDANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.185898919070134, 77.04301517261706"
     },
     {
         "name": "HALDWANI UTTARAKHAND INDIA",
@@ -1293,11 +1261,11 @@
     },
     {
         "name": "HAMEERPUR HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "31.686132062522184, 76.52230703172675"
     },
     {
         "name": "HAMIRPUR HIMACHAL PRADESH INDIA",
-        "coordinates": "31.687996, 76.5192522"
+        "coordinates": "31.686132062522184, 76.52230703172675"
     },
     {
         "name": "HANDESRA PUNJAB INDIA",
@@ -1309,11 +1277,11 @@
     },
     {
         "name": "HANSPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.656244335480327, 75.34052668047569"
     },
     {
         "name": "HANUMANGARH RAJASTHAN INDIA",
-        "coordinates": "29.3659533, 74.298429"
+        "coordinates": "29.60871992948109, 74.32852690763958"
     },
     {
         "name": "HARIDWAR UTTARAKHAND INDIA",
@@ -1321,15 +1289,11 @@
     },
     {
         "name": "HARNOUL PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "HARODA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.13098901126293, 77.20670256498985"
     },
     {
         "name": "HARYAWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.703798547042684, 75.7233953519209"
     },
     {
         "name": "HASANGA HARYANA INDIA",
@@ -1349,7 +1313,7 @@
     },
     {
         "name": "HATHNI KUND HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.314653540599235, 77.58315456692009"
     },
     {
         "name": "HATHRAS UTTAR PRADESH INDIA",
@@ -1365,11 +1329,11 @@
     },
     {
         "name": "HIRAN CHAPPAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.102317493838374, 77.09390054733896"
     },
     {
         "name": "HIRAPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.240468038490505, 77.42774609330303"
     },
     {
         "name": "HISAR HARYANA INDIA",
@@ -1385,11 +1349,7 @@
     },
     {
         "name": "HOSHIYARPUR PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "HOSIYARPUR PUNJAB INDIA",
-        "coordinates": "31.4999033, 75.8924449"
+        "coordinates": "31.51229815225707, 75.91119372053794"
     },
     {
         "name": "IGI AIRPORT DELHI INDIA",
@@ -1401,11 +1361,11 @@
     },
     {
         "name": "IMT FBD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.409166391150162, 77.3182443043698"
     },
     {
         "name": "INDRA CHOWK HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.347129897588882, 76.8378022142836"
     },
     {
         "name": "INDRI HARYANA INDIA",
@@ -1417,7 +1377,7 @@
     },
     {
         "name": "ISBT JAIPUR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "26.93258462404813, 75.81634229140471"
     },
     {
         "name": "ISBT KASHMIRI GATE DELHI INDIA",
@@ -1425,11 +1385,11 @@
     },
     {
         "name": "ISHARWAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.762853012889465, 75.70510265686146"
     },
     {
         "name": "ISRANA HARYANA INDIA",
-        "coordinates": "29.2807716, 76.8494161"
+        "coordinates": "29.2770401871481, 76.85138210121356"
     },
     {
         "name": "JABROT HARYANA INDIA",
@@ -1441,11 +1401,11 @@
     },
     {
         "name": "JAGDHOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.293933918915886, 77.18437097532713"
     },
     {
         "name": "JAGOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.21646741139895, 76.62423266442843"
     },
     {
         "name": "JAGRAON PUNJAB INDIA",
@@ -1453,15 +1413,11 @@
     },
     {
         "name": "JAGRAV PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "JAGURI HARTAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.793281680805684, 75.47350970771492"
     },
     {
         "name": "JAHRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.026840768758007, 77.00364358962636"
     },
     {
         "name": "JAIPUR RAJASTHAN INDIA",
@@ -1469,7 +1425,7 @@
     },
     {
         "name": "JAJJHAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.604880054094682, 76.65356532006079"
     },
     {
         "name": "JAKHAL HARYANA INDIA",
@@ -1477,19 +1433,11 @@
     },
     {
         "name": "JAKHWALA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "JALABAD PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.081407623506532, 76.56510467494361"
     },
     {
         "name": "JALALABAD PUNJAB INDIA",
         "coordinates": "30.6065977, 74.2581087"
-    },
-    {
-        "name": "JALANDER PUNJAB INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "JALANDHAR PUNJAB INDIA",
@@ -1497,15 +1445,7 @@
     },
     {
         "name": "JALHENDER PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "JALLANDHAR PUNJAB INDIA",
         "coordinates": "31.4138872, 75.6924053"
-    },
-    {
-        "name": "JALNADHAR PUNJAB INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "JAMAL HARYANA INDIA",
@@ -1521,11 +1461,11 @@
     },
     {
         "name": "JAMMU KATRA JAMMU AND KASHMIR INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "32.99220358506725, 74.9311563843303"
     },
     {
         "name": "JAMNI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.376308615249712, 76.49170452096732"
     },
     {
         "name": "JANDHERI HARYANA INDIA",
@@ -1533,11 +1473,11 @@
     },
     {
         "name": "JAROUT HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.42376720364504, 76.81925202827533"
     },
     {
         "name": "JASIYA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.009424925195233, 76.64550222991433"
     },
     {
         "name": "JASRANA UTTAR PRADESH INDIA",
@@ -1557,7 +1497,7 @@
     },
     {
         "name": "JATTAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.36868387729615, 76.91000464068605"
     },
     {
         "name": "JATUSANA HARYANA INDIA",
@@ -1565,7 +1505,7 @@
     },
     {
         "name": "JAWAHRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.26070911888902, 76.78928374438719"
     },
     {
         "name": "JHAJJAR HARYANA INDIA",
@@ -1573,7 +1513,7 @@
     },
     {
         "name": "JHAJJAR BADANI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.63981015546975, 76.72343391113415"
     },
     {
         "name": "JHALNIA HARYANA INDIA",
@@ -1584,16 +1524,12 @@
         "coordinates": "30.1146599, 76.6746503"
     },
     {
-        "name": "JHJJAR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "JHOJHU HARYANA INDIA",
         "coordinates": "28.522726, 76.1500693"
     },
     {
         "name": "JHORARROHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.72809496102427, 75.0766718056553"
     },
     {
         "name": "JHUNJHUNU RAJASTHAN INDIA",
@@ -1601,11 +1537,11 @@
     },
     {
         "name": "JHUPA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.785418372589096, 75.56319655004627"
     },
     {
         "name": "JHUPPA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.785418372589096, 75.56319655004627"
     },
     {
         "name": "JIND HARYANA INDIA",
@@ -1613,7 +1549,7 @@
     },
     {
         "name": "JIWANNAGAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.527602932406452, 74.73893870684199"
     },
     {
         "name": "JODHPUR RAJASTHAN INDIA",
@@ -1621,7 +1557,7 @@
     },
     {
         "name": "JODKIAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.30557055672821, 75.05716675667989"
     },
     {
         "name": "JOSHI HARYANA INDIA",
@@ -1629,7 +1565,7 @@
     },
     {
         "name": "JOTANWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.925439887153797, 74.53112126400566"
     },
     {
         "name": "JUI HARYANA INDIA",
@@ -1649,7 +1585,7 @@
     },
     {
         "name": "KABREL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.183142409112175, 75.5153846264966"
     },
     {
         "name": "KADMA HARYANA INDIA",
@@ -1657,7 +1593,7 @@
     },
     {
         "name": "KADSAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.381279910641315, 77.00753571912497"
     },
     {
         "name": "KAGDANA HARYANA INDIA",
@@ -1673,7 +1609,7 @@
     },
     {
         "name": "KAKORIYA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.26017161577428, 76.64899037546593"
     },
     {
         "name": "KALANAUR HARYANA INDIA",
@@ -1689,7 +1625,7 @@
     },
     {
         "name": "KALARHERI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.39441318433539, 76.87355862307754"
     },
     {
         "name": "KALAYAT HARYANA INDIA",
@@ -1697,7 +1633,7 @@
     },
     {
         "name": "KALIYANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.55189108356307, 76.19716992557784"
     },
     {
         "name": "KALKA HARYANA INDIA",
@@ -1705,7 +1641,7 @@
     },
     {
         "name": "KALKHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.33358513909218, 76.8457814912197"
     },
     {
         "name": "KALUANA HARYANA INDIA",
@@ -1713,7 +1649,7 @@
     },
     {
         "name": "KALUWANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.745630969850183, 74.66537363744395"
     },
     {
         "name": "KANDHLA UTTAR PRADESH INDIA",
@@ -1733,7 +1669,7 @@
     },
     {
         "name": "KANUKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.115302758172668, 76.51123530877227"
     },
     {
         "name": "KAPURTHALA PUNJAB INDIA",
@@ -1753,23 +1689,23 @@
     },
     {
         "name": "KARNOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.539729250187563, 75.31416533051664"
     },
     {
         "name": "KAROLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.38316711978457, 76.346794088401"
     },
     {
         "name": "KAROTA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.97698993869063, 76.11127026109122"
     },
     {
         "name": "KARU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.695296744621455, 75.8801027166473"
     },
     {
         "name": "KASERLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.02853917982634, 76.86573390072279"
     },
     {
         "name": "KASHIPUR UTTARAKHAND INDIA",
@@ -1785,15 +1721,11 @@
     },
     {
         "name": "KATWAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.041057015100186, 76.75809976330413"
     },
     {
         "name": "KEHRAWALA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "KERINA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.6618005912624, 74.71116954110684"
     },
     {
         "name": "KESRI HARYANA INDIA",
@@ -1801,7 +1733,7 @@
     },
     {
         "name": "KESRI LANDHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.20552906241669, 76.88291047180725"
     },
     {
         "name": "KESRI STATION HARYANA INDIA",
@@ -1809,11 +1741,7 @@
     },
     {
         "name": "KHAIRAMPUR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "KHAIRMPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.322070590143117, 75.52513340814599"
     },
     {
         "name": "KHAJUWALA RAJASTHAN INDIA",
@@ -1821,27 +1749,27 @@
     },
     {
         "name": "KHALILA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.28951482317429, 76.9720279451268"
     },
     {
         "name": "KHANDORA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.04660640274084, 76.46924256496871"
     },
     {
         "name": "KHANNA PUNJAB INDIA",
         "coordinates": "30.700625, 76.2220763"
     },
     {
-        "name": "KHANNAURI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "name": "KHANNAURI HARYANA INDIA",
+        "coordinates": "28.848582786067325, 76.17592607278164"
     },
     {
-        "name": "KHANORI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "name": "KHANORI RAJASTHAN INDIA",
+        "coordinates": "26.568563458022922, 72.32381129722252"
     },
     {
-        "name": "KHANOURI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "name": "KHANOURI HARYANA INDIA",
+        "coordinates": "28.84877073318733, 76.17553983467428"
     },
     {
         "name": "KHANPUR HARYANA INDIA",
@@ -1849,11 +1777,11 @@
     },
     {
         "name": "KHARAKHERI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.381939579094187, 75.57460731844068"
     },
     {
         "name": "KHARD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.966131081069314, 76.5246855522603"
     },
     {
         "name": "KHARIAN HARYANA INDIA",
@@ -1862,10 +1790,6 @@
     {
         "name": "KHARKHODA HARYANA INDIA",
         "coordinates": "28.9027674, 76.903736"
-    },
-    {
-        "name": "KHARKODA HARYANA INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "KHARWAN HARYANA INDIA",
@@ -1877,7 +1801,7 @@
     },
     {
         "name": "KHAWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.800080505469246, 75.75449702467282"
     },
     {
         "name": "KHERA HARYANA INDIA",
@@ -1885,15 +1809,11 @@
     },
     {
         "name": "KHERAKAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.598678051885084, 75.01310615946042"
     },
     {
         "name": "KHERAWALI HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "KHERI CHOPTA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.851493885573586, 76.87977048843732"
     },
     {
         "name": "KHETPURALI HARYANA INDIA",
@@ -1913,11 +1833,11 @@
     },
     {
         "name": "KHOLMOLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.86809781511825, 76.80701622129564"
     },
     {
         "name": "KHOND HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.490877707962266, 76.96439114041073"
     },
     {
         "name": "KHORI HARYANA INDIA",
@@ -1929,15 +1849,15 @@
     },
     {
         "name": "KHUDDA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.77815795997459, 76.77620801832452"
     },
     {
         "name": "KIRAWAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.928669160119032, 75.91823068062392"
     },
     {
         "name": "KIRDHAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.403319350013092, 75.4016957466681"
     },
     {
         "name": "KIRMARA HARYANA INDIA",
@@ -1949,7 +1869,7 @@
     },
     {
         "name": "KITHWARI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.140776044344257, 77.36715496682042"
     },
     {
         "name": "KITLANA HARYANA INDIA",
@@ -1957,23 +1877,15 @@
     },
     {
         "name": "KLANWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.836378155485797, 74.97199041255297"
     },
     {
         "name": "KODWA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "KOPAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.396072154237572, 76.96775354403553"
     },
     {
         "name": "KORIAWAS HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "KORIYAWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.03078098740416, 76.04045914972981"
     },
     {
         "name": "KOSLI HARYANA INDIA",
@@ -1985,7 +1897,7 @@
     },
     {
         "name": "KOT KACHHUA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.27971321369336, 76.82297572805906"
     },
     {
         "name": "KOTA RAJASTHAN INDIA",
@@ -1997,7 +1909,7 @@
     },
     {
         "name": "KOTHPUTALI RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.7039331990492, 76.18705678310575"
     },
     {
         "name": "KOTKASIM RAJASTHAN INDIA",
@@ -2009,7 +1921,7 @@
     },
     {
         "name": "KULANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.42471017316017, 76.65925841565986"
     },
     {
         "name": "KULLU HIMACHAL PRADESH INDIA",
@@ -2017,7 +1929,7 @@
     },
     {
         "name": "KULPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.189196519013226, 77.10039117704993"
     },
     {
         "name": "KUND HARYANA INDIA",
@@ -2033,27 +1945,23 @@
     },
     {
         "name": "KURAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.406067422467963, 77.0825671688923"
     },
     {
         "name": "KURAWTA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.292609545937434, 76.10538477601243"
     },
     {
         "name": "KURUKSHETRA HARYANA INDIA",
         "coordinates": "29.9693747, 76.8482787"
     },
     {
-        "name": "KUSAR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "KUSSAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.606028694473462, 74.78741407484866"
     },
     {
         "name": "KUTABADH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.461645582005975, 74.8181604760623"
     },
     {
         "name": "KUTAIL HARYANA INDIA",
@@ -2065,11 +1973,11 @@
     },
     {
         "name": "KYAROLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.380126684225836, 76.34896704352352"
     },
     {
         "name": "LADHUWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.20393990485972, 76.5703975264693"
     },
     {
         "name": "LADWA HARYANA INDIA",
@@ -2077,7 +1985,7 @@
     },
     {
         "name": "LAKHN MAJRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.04498911611763, 76.47621632699912"
     },
     {
         "name": "LAKHU BUANA HARYANA INDIA",
@@ -2085,11 +1993,11 @@
     },
     {
         "name": "LAKHUANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.816793302291817, 74.69189802773766"
     },
     {
         "name": "LAL CHAPPAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.033249064346627, 77.14894753554343"
     },
     {
         "name": "LILODH HARYANA INDIA",
@@ -2109,7 +2017,7 @@
     },
     {
         "name": "LUDANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.23953009932339, 76.50893922602657"
     },
     {
         "name": "LUDHIANA PUNJAB INDIA",
@@ -2117,7 +2025,7 @@
     },
     {
         "name": "MADDIPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.662453317618155, 77.01300638931826"
     },
     {
         "name": "MADHOGARH HARYANA INDIA",
@@ -2133,19 +2041,19 @@
     },
     {
         "name": "MAHAVIRJI RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "26.697000004045933, 76.91020131635506"
     },
     {
-        "name": "MAHENDERGARH HARYANA INDIA",
+        "name": "Mahendragarh HARYANA INDIA",
         "coordinates": "28.2726226, 76.1493925"
     },
     {
         "name": "MAHESH NAGAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.33971846464115, 76.86738627770414"
     },
     {
         "name": "MAHINDERGARH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.27371143251449, 76.14226197911671"
     },
     {
         "name": "MAHMUDPUR HARYANA INDIA",
@@ -2173,35 +2081,27 @@
     },
     {
         "name": "MALOT PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "MALRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.188850306107792, 74.46727021534537"
     },
     {
         "name": "MALWA PUNJAB INDIA",
         "coordinates": "30.865935, 75.8619296"
     },
     {
-        "name": "MALYAKI HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "MAMMERKHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.674695503256903, 74.67304769571763"
     },
     {
         "name": "MANALI HIMACHAL PRADESH INDIA",
         "coordinates": "32.2454608, 77.1872926"
     },
     {
-        "name": "MANDHANA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "name": "MANDHANA HARYANA INDIA",
+        "coordinates": "28.9167003263406, 76.1116074131059"
     },
     {
-        "name": "MANDHNA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "name": "MANDHNA HARYANA INDIA",
+        "coordinates": "28.91572363657951, 76.11199365121324"
     },
     {
         "name": "MANDI HIMACHAL PRADESH INDIA",
@@ -2217,7 +2117,7 @@
     },
     {
         "name": "MANGALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.041556170842675, 75.73416701855726"
     },
     {
         "name": "MANGER HARYANA INDIA",
@@ -2225,11 +2125,11 @@
     },
     {
         "name": "MANGLOR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.38504098480545, 77.30207160370784"
     },
     {
         "name": "MANGLORA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.64267289103595, 77.10591714457186"
     },
     {
         "name": "MANJHAWALI HARYANA INDIA",
@@ -2237,11 +2137,11 @@
     },
     {
         "name": "MANJURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.68927370660718, 76.84032083350613"
     },
     {
-        "name": "MANKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "MANKA, MANKI HARYANA INDIA",
+        "coordinates": "30.211136675606166, 77.15079485373916"
     },
     {
         "name": "MANSA PUNJAB INDIA",
@@ -2249,7 +2149,7 @@
     },
     {
         "name": "MASITA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.88665163806831, 74.72009118991835"
     },
     {
         "name": "MATANHAIL HARYANA INDIA",
@@ -2257,7 +2157,7 @@
     },
     {
         "name": "MATANHEL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.574891713817212, 76.4656921580032"
     },
     {
         "name": "MATHERI HARYANA INDIA",
@@ -2268,12 +2168,8 @@
         "coordinates": "27.4955539, 77.6855554"
     },
     {
-        "name": "MATILI HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "MATINDU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.8702037097406, 76.86986324629987"
     },
     {
         "name": "MATLODA HARYANA INDIA",
@@ -2281,15 +2177,15 @@
     },
     {
         "name": "MATLOUDA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.402011769392807, 76.80604138486125"
     },
     {
         "name": "MATTAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.695314378127527, 75.1900818052329"
     },
     {
         "name": "MATTUWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.630034437211638, 74.69135639833736"
     },
     {
         "name": "MEERPUR HARYANA INDIA",
@@ -2301,7 +2197,7 @@
     },
     {
         "name": "MEGHUWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.412123968569205, 75.31900403270373"
     },
     {
         "name": "MEHAM HARYANA INDIA",
@@ -2309,15 +2205,15 @@
     },
     {
         "name": "MEHARA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.165435238844577, 76.50846620851262"
     },
     {
         "name": "MEHNDA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.04452148365445, 76.05456901902438"
     },
     {
         "name": "MINDKOLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.134403451011416, 77.1805000293664"
     },
     {
         "name": "MIRAN HARYANA INDIA",
@@ -2329,15 +2225,11 @@
     },
     {
         "name": "MITHAPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.314951546845244, 76.93527648835602"
     },
     {
         "name": "MITROL HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "MODHO HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.033987752335985, 77.33992586892403"
     },
     {
         "name": "MOGA PUNJAB INDIA",
@@ -2353,11 +2245,7 @@
     },
     {
         "name": "MOHARA HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "MOHINDERGARH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.271129547120452, 76.85297016245296"
     },
     {
         "name": "MOHNA HARYANA INDIA",
@@ -2373,7 +2261,7 @@
     },
     {
         "name": "MOKHUTA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.927914934721475, 75.94336867103208"
     },
     {
         "name": "MOONAK PUNJAB INDIA",
@@ -2389,11 +2277,11 @@
     },
     {
         "name": "MOTH LOHARI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.22933884168557, 76.07229717865316"
     },
     {
-        "name": "MP ROHI MADHYA PRADESH INDIA",
-        "coordinates": "Not Found"
+        "name": "Mohamadpur Rohi HARYANA INDIA",
+        "coordinates": "29.461468201780168, 75.56343904217478"
     },
     {
         "name": "MUANA HARYANA INDIA",
@@ -2405,15 +2293,15 @@
     },
     {
         "name": "MUKATSUR PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.46953490310616, 74.51395481464064"
     },
     {
         "name": "MUKLAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.0682174634088, 75.66053295800883"
     },
     {
         "name": "MUMTAJPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.29415173113731, 76.79591304953547"
     },
     {
         "name": "MUNAK HARYANA INDIA",
@@ -2421,15 +2309,11 @@
     },
     {
         "name": "MUNAK PUL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.520962568027127, 76.8472745466891"
     },
     {
         "name": "MUNDHAL HARYANA INDIA",
         "coordinates": "29.0201214, 76.1743759"
-    },
-    {
-        "name": "MUNDHARA HARYANA INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "MUNDI MADHYA PRADESH INDIA",
@@ -2453,31 +2337,27 @@
     },
     {
         "name": "NAGAL CHOUDHARY HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "NAGAL CHUDHARY HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.89297648978403, 76.10951326552899"
     },
     {
         "name": "NAGAL KATHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.16026785007524, 76.05970141473055"
     },
     {
         "name": "NAGAL SIROHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.190257213487836, 76.13035078438824"
     },
     {
         "name": "NAGOKI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.654519159688824, 75.1172698189905"
     },
     {
-        "name": "NAGPUR MAHARASHTRA INDIA",
-        "coordinates": "21.1498134, 79.0820556"
+        "name": "NAGPUR HARYANA INDIA",
+        "coordinates": "29.655816589851607, 75.42136788033734"
     },
     {
         "name": "NAGURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.438509243354652, 76.37225390691844"
     },
     {
         "name": "NAHAN HIMACHAL PRADESH INDIA",
@@ -2488,8 +2368,8 @@
         "coordinates": "28.3870517, 77.2957448"
     },
     {
-        "name": "NAHOR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "NAHOR RAJASTHAN INDIA",
+        "coordinates": "29.18399455789212, 74.76908236102597"
     },
     {
         "name": "NAJAFGARH DELHI INDIA",
@@ -2505,11 +2385,11 @@
     },
     {
         "name": "NANDHA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.448821880541377, 75.941566190479"
     },
     {
         "name": "NANEHRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.355639863368374, 77.11735007690682"
     },
     {
         "name": "NANGAL PUNJAB INDIA",
@@ -2517,7 +2397,7 @@
     },
     {
         "name": "NANGAL NUNIA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.856322149733604, 76.12863425804986"
     },
     {
         "name": "NANGLA HARYANA INDIA",
@@ -2525,7 +2405,7 @@
     },
     {
         "name": "NANGLA BABIL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.42749760479914, 77.04769140059435"
     },
     {
         "name": "NANGLOI DELHI INDIA",
@@ -2537,11 +2417,11 @@
     },
     {
         "name": "NANYOLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.25476696885855, 76.57288310867338"
     },
     {
         "name": "NARAIN GARH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.473048777539034, 77.12784268946923"
     },
     {
         "name": "NARAINGARH HARYANA INDIA",
@@ -2549,7 +2429,7 @@
     },
     {
         "name": "NARAYANGAREH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.476268918093485, 77.12363099498654"
     },
     {
         "name": "NARELA DELHI INDIA",
@@ -2565,7 +2445,7 @@
     },
     {
         "name": "NARSINGHWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.650276005688735, 76.14072195296231"
     },
     {
         "name": "NARWANA HARYANA INDIA",
@@ -2573,15 +2453,11 @@
     },
     {
         "name": "NARYANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.26859280538796, 76.94783958254546"
     },
     {
         "name": "NATHORE HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "NATORE HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.624392488956293, 74.62986162722987"
     },
     {
         "name": "NAULTHA HARYANA INDIA",
@@ -2605,7 +2481,7 @@
     },
     {
         "name": "NIHARSI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.214862346169756, 76.64767924151975"
     },
     {
         "name": "NILOKHERI HARYANA INDIA",
@@ -2613,11 +2489,11 @@
     },
     {
         "name": "NIMBARI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.38231876496766, 77.0311383304391"
     },
     {
         "name": "NIMWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.008648831087985, 76.46688232559073"
     },
     {
         "name": "NISSING HARYANA INDIA",
@@ -2637,11 +2513,7 @@
     },
     {
         "name": "NOORGARH HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "NTP INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.3578270104943, 76.67959177729311"
     },
     {
         "name": "NUH HARYANA INDIA",
@@ -2649,11 +2521,11 @@
     },
     {
         "name": "NUHIANWALI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.74589764247804, 74.84730001894722"
     },
     {
         "name": "NURKI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.59456415003844, 75.43220014091912"
     },
     {
         "name": "OBRA UTTAR PRADESH INDIA",
@@ -2661,7 +2533,7 @@
     },
     {
         "name": "OCHANDI BORDER DELHI/HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.82096557356389, 76.99661172055546"
     },
     {
         "name": "ODHAN HARYANA INDIA",
@@ -2669,11 +2541,11 @@
     },
     {
         "name": "OLD FBD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.422583838038577, 77.32558557008288"
     },
     {
         "name": "PABNI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.272081907567674, 77.23102216345325"
     },
     {
         "name": "PABRA HARYANA INDIA",
@@ -2685,19 +2557,19 @@
     },
     {
         "name": "PAHALAWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.357567720139272, 76.6206264803624"
     },
     {
         "name": "PAKKA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.78732441619238, 75.12485791908657"
     },
     {
         "name": "PAKKA KHERA MOD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.60629501577257, 76.79559518184053"
     },
     {
         "name": "PALAHAWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.357567720139272, 76.6206264803624"
     },
     {
         "name": "PALAMPUR HIMACHAL PRADESH INDIA",
@@ -2709,7 +2581,7 @@
     },
     {
         "name": "PALSAR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.59738376637974, 75.58733754066348"
     },
     {
         "name": "PALWAL HARYANA INDIA",
@@ -2733,7 +2605,7 @@
     },
     {
         "name": "PANJAIL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.196301701777642, 76.91818296773906"
     },
     {
         "name": "PANJOKHRA HARYANA INDIA",
@@ -2741,19 +2613,19 @@
     },
     {
         "name": "PANJUANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.626920415364868, 74.98328154936296"
     },
     {
         "name": "PARTAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.569715072791052, 75.84587575012077"
     },
     {
         "name": "PARTAP NAGAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.293256160208685, 77.49455438177682"
     },
     {
         "name": "PASINA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.29569049345809, 77.00643314145736"
     },
     {
         "name": "PATAN GUJARAT INDIA",
@@ -2769,7 +2641,7 @@
     },
     {
         "name": "PATHHANKOT PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "32.27481759523003, 75.65151192305123"
     },
     {
         "name": "PATHRI UTTARAKHAND INDIA",
@@ -2781,11 +2653,11 @@
     },
     {
         "name": "PATOUDHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.325279963961524, 76.77767311529111"
     },
     {
-        "name": "PATRALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "PATIALA HARYANA INDIA",
+        "coordinates": "30.33874213161243, 76.38301310864593"
     },
     {
         "name": "PATRAN PUNJAB INDIA",
@@ -2793,15 +2665,15 @@
     },
     {
         "name": "PATUDI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.311216784567392, 76.5606261044704"
     },
     {
-        "name": "PAUNTASAHIB HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "name": "PaontaSahib HIMACHAL PRADESH INDIA",
+        "coordinates": "30.445655400319556, 77.60123108310638"
     },
     {
         "name": "PEERKHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.637457470795585, 74.9062227253198"
     },
     {
         "name": "PEHOWA HARYANA INDIA",
@@ -2809,19 +2681,15 @@
     },
     {
         "name": "PEHWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.981221181779755, 76.58335425540376"
     },
     {
         "name": "PHOOLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.627152568735973, 75.5082392387491"
     },
     {
         "name": "PHULKAN HARYANA INDIA",
         "coordinates": "29.495997, 75.1283431"
-    },
-    {
-        "name": "PILANAI RAJASTHAN INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "PILANI RAJASTHAN INDIA",
@@ -2829,7 +2697,7 @@
     },
     {
         "name": "PILCHHIYA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.762982087239173, 75.41781604222395"
     },
     {
         "name": "PILLU KHERA HARYANA INDIA",
@@ -2837,19 +2705,19 @@
     },
     {
         "name": "PILLUKHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.33590646449561, 76.50814624066095"
     },
     {
         "name": "PINGAVA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.894312245662885, 77.10754369493945"
     },
     {
         "name": "PINGWAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.894312245662885, 77.10754369493945"
     },
     {
         "name": "PINJOKHRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.90553131214639, 77.01460008594448"
     },
     {
         "name": "PINJORE HARYANA INDIA",
@@ -2860,12 +2728,8 @@
         "coordinates": "29.976654, 76.892351"
     },
     {
-        "name": "POKRAN RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "PONTASAHIB HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.445581404783567, 77.6038918345127"
     },
     {
         "name": "PREMPURA HARYANA INDIA",
@@ -2873,11 +2737,11 @@
     },
     {
         "name": "PUGTHALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.187777492484493, 76.87488231444341"
     },
     {
         "name": "PUNCHKULA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.694432258942587, 76.86299130662489"
     },
     {
         "name": "PUNDRI HARYANA INDIA",
@@ -2897,11 +2761,11 @@
     },
     {
         "name": "PUTHER HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.218428572204925, 76.86758964289744"
     },
     {
         "name": "RACHHERI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.358401811260222, 76.97797988325831"
     },
     {
         "name": "RADAUR HARYANA INDIA",
@@ -2909,7 +2773,7 @@
     },
     {
         "name": "RAHMANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.085783190046094, 76.88653476649952"
     },
     {
         "name": "RAIPUR RANI HARYANA INDIA",
@@ -2917,7 +2781,7 @@
     },
     {
         "name": "RAIR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.60338661745494, 76.5733874181568"
     },
     {
         "name": "RAIWALI HARYANA INDIA",
@@ -2928,32 +2792,20 @@
         "coordinates": "29.9483764, 76.8053003"
     },
     {
-        "name": "RAJASTHA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "RAJAWAS RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.27710761837996, 76.07749831968842"
     },
     {
         "name": "RAJGARH RAJASTHAN INDIA",
         "coordinates": "27.2422285, 76.6068271"
     },
     {
-        "name": "RAJGARH DHOBI RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "RAJLUGARHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.094779903168718, 76.99909524582455"
     },
     {
         "name": "RAJOUND HARYANA INDIA",
         "coordinates": "29.5779825, 76.4845735"
-    },
-    {
-        "name": "RAJPPURA PUNJAB INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "RAJPURA PUNJAB INDIA",
@@ -2961,7 +2813,7 @@
     },
     {
         "name": "RAJYAKI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.147050729295383, 76.539209363004"
     },
     {
         "name": "RAKSHERA HARYANA INDIA",
@@ -2973,7 +2825,7 @@
     },
     {
         "name": "RAMANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.614534465751067, 76.91899271368202"
     },
     {
         "name": "RAMBAS HARYANA INDIA",
@@ -2993,7 +2845,7 @@
     },
     {
         "name": "RAMPURKHOD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.17131533371691, 77.44015927896994"
     },
     {
         "name": "RANA MAJRA HARYANA INDIA",
@@ -3009,11 +2861,11 @@
     },
     {
         "name": "RANJEET PUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.419752561938115, 77.34888939477756"
     },
     {
         "name": "RATERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.959737303135746, 75.88214632227327"
     },
     {
         "name": "RATIA HARYANA INDIA",
@@ -3025,23 +2877,23 @@
     },
     {
         "name": "RAWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.4404224598933, 75.04521763268708"
     },
     {
         "name": "RAWATSHER HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.264710278707796, 74.40793200979616"
     },
     {
         "name": "RAWLA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.4404224598933, 75.04521763268708"
     },
     {
         "name": "RAWTA KI DHANI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.84330079284556, 76.01137205059794"
     },
     {
         "name": "REDHUWAS HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.524925528537242, 76.54215581920111"
     },
     {
         "name": "REWARI HARYANA INDIA",
@@ -3049,11 +2901,11 @@
     },
     {
         "name": "RIDHAOU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.979114939828833, 76.82467816263332"
     },
     {
         "name": "RINDHANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.128041323189834, 76.50570603433842"
     },
     {
         "name": "RISHIKESH UTTARAKHAND INDIA",
@@ -3089,15 +2941,15 @@
     },
     {
         "name": "RUDERPUR UTTARAKHAND INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.990637354626962, 79.41563732787755"
     },
     {
         "name": "RUDROL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.473291121667994, 76.09433537117309"
     },
     {
         "name": "SABANPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.35504580770669, 77.00912833276607"
     },
     {
         "name": "SABARWAS HARYANA INDIA",
@@ -3109,11 +2961,11 @@
     },
     {
         "name": "SADHORA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.381397297135987, 77.21457457092397"
     },
     {
         "name": "SADHURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.386284094693337, 77.22556089931133"
     },
     {
         "name": "SAFIDON HARYANA INDIA",
@@ -3121,7 +2973,7 @@
     },
     {
         "name": "SAFIYABAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.88372320224086, 77.07609775150426"
     },
     {
         "name": "SAGARPUR DELHI INDIA",
@@ -3129,7 +2981,7 @@
     },
     {
         "name": "SAGRUR PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.247545345118976, 75.84089653433239"
     },
     {
         "name": "SAHA HARYANA INDIA",
@@ -3137,7 +2989,7 @@
     },
     {
         "name": "SAHAHBAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.155040871577462, 76.86928309449381"
     },
     {
         "name": "SAHARANPUR UTTAR PRADESH INDIA",
@@ -3145,19 +2997,19 @@
     },
     {
         "name": "SAHARWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.922700012163812, 75.74188022652069"
     },
     {
         "name": "SAHJADPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.453713772312557, 77.03219574344718"
     },
     {
         "name": "SAHUWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.661555791084357, 74.96798995729651"
     },
     {
         "name": "SAKTAKHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.895266860512255, 74.63660709122242"
     },
     {
         "name": "SALASAR RAJASTHAN INDIA",
@@ -3185,7 +3037,7 @@
     },
     {
         "name": "SAMBHI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.820772761742216, 76.83043949252678"
     },
     {
         "name": "SAMPLA HARYANA INDIA",
@@ -3201,15 +3053,11 @@
     },
     {
         "name": "SANGRIA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "SANGRIYA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "25.83856776607054, 74.86042556090628"
     },
     {
         "name": "SANGROOR PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.24584463694002, 75.8423486873229"
     },
     {
         "name": "SANGRUR PUNJAB INDIA",
@@ -3221,7 +3069,7 @@
     },
     {
         "name": "SANOLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.407572310809346, 77.09354284385257"
     },
     {
         "name": "SARAN HARYANA INDIA",
@@ -3236,16 +3084,12 @@
         "coordinates": "30.5246119, 74.8793387"
     },
     {
-        "name": "SARDAR SHR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "SARDULGARH PUNJAB INDIA",
         "coordinates": "29.6934466, 75.23753"
     },
     {
         "name": "SARGTHAL HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.11956991192848, 76.83605193502899"
     },
     {
         "name": "SARSOD HARYANA INDIA",
@@ -3253,7 +3097,7 @@
     },
     {
         "name": "SASROLI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.52676310621298, 76.39618987078738"
     },
     {
         "name": "SATNALI HARYANA INDIA",
@@ -3261,7 +3105,7 @@
     },
     {
         "name": "SAURATGHAR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.322826678679466, 73.90022252169138"
     },
     {
         "name": "SEHRI HARYANA INDIA",
@@ -3269,11 +3113,7 @@
     },
     {
         "name": "SEKHPUR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "SEKHPURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.133855583309145, 76.96230853478625"
     },
     {
         "name": "SHADIPUR DELHI INDIA",
@@ -3305,15 +3145,11 @@
     },
     {
         "name": "SHARANAPUR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.96779101851593, 77.55196306063382"
     },
     {
         "name": "SHARNPUR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "SHARWA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.96779101851593, 77.55676957930329"
     },
     {
         "name": "SHEKHUPUR HARYANA INDIA",
@@ -3321,11 +3157,11 @@
     },
     {
         "name": "SHELANG HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.40687752069838, 76.21644978900005"
     },
     {
         "name": "SHERPURA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.45693144580151, 75.1980322149357"
     },
     {
         "name": "SHIMLA HIMACHAL PRADESH INDIA",
@@ -3336,24 +3172,20 @@
         "coordinates": "25.3741215, 77.8278866"
     },
     {
-        "name": "SHMILA HIMACHAL PRADESH INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "SHORI HARYANA INDIA",
         "coordinates": "30.7995282, 76.9104941"
     },
     {
-        "name": "SHYALODA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "SHYALODA RAJASTHAN INDIA",
+        "coordinates": "27.863881731841616, 75.96964351839308"
     },
     {
         "name": "SHYAM KALAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.58814039815283, 75.84683829078253"
     },
     {
         "name": "SHYANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.449441943096716, 76.2225127065441"
     },
     {
         "name": "SIHMA HARYANA INDIA",
@@ -3369,11 +3201,7 @@
     },
     {
         "name": "SIKENDERPUR HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "SIKER RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.481458121916614, 77.0937074530868"
     },
     {
         "name": "SIKRONA HARYANA INDIA",
@@ -3385,7 +3213,7 @@
     },
     {
         "name": "SIMLA GUJRAN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.318023297393875, 77.05722562479532"
     },
     {
         "name": "SIMLI HARYANA INDIA",
@@ -3396,16 +3224,12 @@
         "coordinates": "28.0980168, 75.8365734"
     },
     {
-        "name": "SINGHNA RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "SINGHU BORDER DELHI/HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.858126898691125, 77.10724578193805"
     },
     {
         "name": "SIRMATHALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.29264525003251, 77.26317057777682"
     },
     {
         "name": "SIRSA HARYANA INDIA",
@@ -3417,11 +3241,11 @@
     },
     {
         "name": "SISWALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.10182517992175, 75.5526003900806"
     },
     {
         "name": "SITAMAI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.783291053423003, 76.76251529540261"
     },
     {
         "name": "SIWAH HARYANA INDIA",
@@ -3437,7 +3261,7 @@
     },
     {
         "name": "SIWN HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.9063176420558, 75.6082861148476"
     },
     {
         "name": "SOHANA PUNJAB INDIA",
@@ -3449,7 +3273,7 @@
     },
     {
         "name": "SOHRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.387858492274187, 76.03642313990606"
     },
     {
         "name": "SOLAN HIMACHAL PRADESH INDIA",
@@ -3461,11 +3285,11 @@
     },
     {
         "name": "SOTTAR BHATTU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.60160511734697, 75.31640228727466"
     },
     {
         "name": "SUBANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.46816381353894, 76.56988207804885"
     },
     {
         "name": "SUBHASH PARK HARYANA INDIA",
@@ -3473,11 +3297,11 @@
     },
     {
         "name": "SUBHRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.690729255027836, 77.05929775503596"
     },
     {
         "name": "SUHASRA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.409111124580125, 75.86742368244224"
     },
     {
         "name": "SUI HARYANA INDIA",
@@ -3488,20 +3312,16 @@
         "coordinates": "32.31549, 75.606966"
     },
     {
-        "name": "SUJJANPUR PUNJAB INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "SUKHCHAIN HARYANA INDIA",
         "coordinates": "29.7795012, 75.0241992"
     },
     {
         "name": "SULHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.670521190446713, 75.96693829377664"
     },
     {
-        "name": "SULLAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "name": "SULLAR PUNJAB INDIA",
+        "coordinates": "30.296776843878174, 76.37961612001648"
     },
     {
         "name": "SUNDRA HARYANA INDIA",
@@ -3513,19 +3333,15 @@
     },
     {
         "name": "SURATGHAR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.321928671956037, 73.89945004547663"
     },
     {
         "name": "TAJIA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.483122105380634, 75.13356553634142"
     },
     {
         "name": "TAJPUR HARYANA INDIA",
         "coordinates": "28.0864223, 76.2312192"
-    },
-    {
-        "name": "TAKRI HARYANA INDIA",
-        "coordinates": "Not Found"
     },
     {
         "name": "TALWANDI PUNJAB INDIA",
@@ -3533,7 +3349,7 @@
     },
     {
         "name": "TALWANI PUNJAB INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.75856521987316, 75.6830248299903"
     },
     {
         "name": "TALWARA HIMACHAL PRADESH INDIA",
@@ -3541,7 +3357,7 @@
     },
     {
         "name": "TAMSABAD HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.40610028551216, 77.12788573645874"
     },
     {
         "name": "TANAKPUR UTTARAKHAND INDIA",
@@ -3553,7 +3369,7 @@
     },
     {
         "name": "TANGRI BANDH HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.32745349269828, 76.86400914796553"
     },
     {
         "name": "TAORU HARYANA INDIA",
@@ -3561,7 +3377,7 @@
     },
     {
         "name": "TAUDU HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.211684376715983, 76.95104778367428"
     },
     {
         "name": "TAURU HARYANA INDIA",
@@ -3569,11 +3385,11 @@
     },
     {
         "name": "TEJA MOHRI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.26517348823677, 76.75382659819998"
     },
     {
         "name": "TEJAKHERA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.843452382165538, 74.55444071578593"
     },
     {
         "name": "TEPLA HARYANA INDIA",
@@ -3581,7 +3397,7 @@
     },
     {
         "name": "TEWARI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.16187988362449, 76.88932051324382"
     },
     {
         "name": "THANA BHAWAN UTTAR PRADESH INDIA",
@@ -3589,11 +3405,11 @@
     },
     {
         "name": "THANA CHHAPAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.22016541575223, 77.16992136738989"
     },
     {
         "name": "THANA CHHAPER HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.22016541575223, 77.16992136738989"
     },
     {
         "name": "THANA HARYANA INDIA",
@@ -3613,11 +3429,11 @@
     },
     {
         "name": "THHOBA DHANI HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.463740876270606, 75.4841452551875"
     },
     {
         "name": "THILOR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "28.810649650715774, 75.83548266543482"
     },
     {
         "name": "THOL HARYANA INDIA",
@@ -3629,7 +3445,7 @@
     },
     {
         "name": "TIJAR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.933403851672306, 76.85444323049538"
     },
     {
         "name": "TIJARA RAJASTHAN INDIA",
@@ -3637,19 +3453,15 @@
     },
     {
         "name": "TIKKARTAAL HARYANA INDIA",
-        "coordinates": "Not Found"
-    },
-    {
-        "name": "TIKKARTAAL BARAT HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.6592878464382, 77.08403961921489"
     },
     {
         "name": "TITANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.266727046629345, 76.92464405270012"
     },
     {
         "name": "TOBA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.350925882612614, 76.96790805898762"
     },
     {
         "name": "TOHANA HARYANA INDIA",
@@ -3657,7 +3469,7 @@
     },
     {
         "name": "TOP KHANA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "30.370626433053435, 76.846917880414"
     },
     {
         "name": "TOSHAM HARYANA INDIA",
@@ -3672,16 +3484,12 @@
         "coordinates": "24.578721, 73.6862571"
     },
     {
-        "name": "UDAYPUR RAJASTHAN INDIA",
-        "coordinates": "Not Found"
-    },
-    {
         "name": "UDAYPUR WATI RAJASTHAN INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.73305007714263, 75.47246775765852"
     },
     {
         "name": "UGALA HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "29.162832712860666, 76.25703689103206"
     },
     {
         "name": "UJHANA HARYANA INDIA",
@@ -3713,11 +3521,11 @@
     },
     {
         "name": "UTAWAR HARYANA INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.975570636668277, 77.19480601565311"
     },
     {
         "name": "VERNDAVAN UTTAR PRADESH INDIA",
-        "coordinates": "Not Found"
+        "coordinates": "27.564352719910612, 77.65748155670393"
     },
     {
         "name": "VIRAT NAGAR RAJASTHAN INDIA",
