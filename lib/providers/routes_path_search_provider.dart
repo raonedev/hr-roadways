@@ -27,6 +27,8 @@ class RoutesPathSearchProvider extends ChangeNotifier {
     try {
       await _initialized();
       await searchCompletePath(from, to, _allRoutes);
+      _addToPath(to); 
+      dev.log(_path.toString());
     } catch (e) {
       dev.log("Exception while searching");
     } finally {
@@ -71,7 +73,7 @@ class RoutesPathSearchProvider extends ChangeNotifier {
   ]) async {
     final currentVisited = visitedRoutes ?? <String>{};
     final List<BusRoute> results = _searchDirectRoutes(from, to, routes);
-    dev.log("search for $from result count : ${results.length}");
+    dev.log("search for FROM:$from TO:$to result count : ${results.length}");
     _addToPath(from);
 
     if (results.isEmpty) {
@@ -88,7 +90,8 @@ class RoutesPathSearchProvider extends ChangeNotifier {
         await searchCompletePath(r.via, r.to, routes, currentVisited);
         dev.log("search to $to");
 
-        _addToPath(to);
+        // _addToPath(to);
+        break;
       }
     }
     return;
@@ -96,9 +99,16 @@ class RoutesPathSearchProvider extends ChangeNotifier {
 
   // Helper function to prevent duplicates in the path list
   void _addToPath(String city) {
-    String lowerCity = city.trim().toLowerCase();
-    if (path.isEmpty || path.last.trim().toLowerCase() != lowerCity) {
-      path.add(city);
+    if (city.isEmpty) return;
+
+    String trimmedCity = city.trim();
+    // Case-insensitive check against the entire list
+    bool alreadyExists = _path.any(
+      (element) => element.trim().toLowerCase() == trimmedCity.toLowerCase(),
+    );
+
+    if (!alreadyExists) {
+      _path.add(trimmedCity);
     }
   }
 }

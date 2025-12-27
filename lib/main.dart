@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:hrroadways/colors.dart';
 import 'package:hrroadways/pages/home.dart';
 import 'package:provider/provider.dart';
@@ -7,6 +8,16 @@ import 'providers/routes_path_search_provider.dart';
 import 'providers/routes_search_provider.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  // This makes the status bar and navigation bar transparent
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.transparent, // Required for Edge-to-Edge
+    systemNavigationBarDividerColor: Colors.transparent,
+    statusBarColor: Colors.transparent,
+  ));
+
+  // This tells the Android engine to let the app draw behind the bars
+  SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
   runApp(const MyApp());
 }
 

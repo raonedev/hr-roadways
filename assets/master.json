@@ -135408,15 +135408,6 @@
         "Departure_Time": "08:30"
     },
     {
-        "sno": 398,
-        "Bus_Stand_Name": "Panipat",
-        "Route_Name": "Panipat-Delhi-Chandigarh-Panipat",
-        "From": "Panipat",
-        "Via": "Ambala",
-        "To": "Delhi",
-        "Departure_Time": "08:05"
-    },
-    {
         "sno": 399,
         "Bus_Stand_Name": "Panipat",
         "Route_Name": "Panipat-Chandigarh-Panipat",
