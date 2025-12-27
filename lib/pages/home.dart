@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:hrroadways/pages/routes_page.dart';
+import 'package:hrroadways/providers/routes_path_search_provider.dart';
 import 'package:hugeicons/hugeicons.dart';
 import 'package:provider/provider.dart';
 import 'package:hrroadways/colors.dart';
@@ -94,6 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
           actions: [
             ElevatedButton(
               onPressed: () async {
+                HapticFeedback.vibrate();
                 SharedPreferences prefs = await SharedPreferences.getInstance();
                 await prefs.setBool('termsAccepted', true);
                 if (context.mounted) {
@@ -177,9 +180,21 @@ class _HomeScreenState extends State<HomeScreen> {
                   final BusRoute route = routesProvider.searchResult[index];
                   return GestureDetector(
                     onTap: () {
+                      HapticFeedback.lightImpact();
+                      context.read<RoutesPathSearchProvider>().searchPath(
+                        fromController.text.trim(),
+                        toController.text.trim(),
+                      );
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => RoutesPage()),
+                        MaterialPageRoute(
+                          builder:
+                              (context) => RoutesPage(
+                                from: fromController.text.trim(),
+                                to: toController.text.trim(),
+                                route: route,
+                              ),
+                        ),
                       );
                     },
                     child: BusRouteCard(route: route),
@@ -326,6 +341,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     size: 16,
                   ),
                   onPressed: () {
+                    HapticFeedback.vibrate();
                     setState(() {
                       final String temp = fromController.text.trim();
                       fromController.text = toController.text;
@@ -435,6 +451,7 @@ class _HomeScreenState extends State<HomeScreen> {
             width: double.infinity,
             child: ElevatedButton(
               onPressed: () {
+                HapticFeedback.vibrate();
                 context.read<RoutesSearchProvider>().searchRoutes(
                   fromController.text.trim(),
                   toController.text.trim(),
